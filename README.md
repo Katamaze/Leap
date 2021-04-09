@@ -1,4 +1,4 @@
-# Leap
+# Must-Have Features
 
 ## CMS
 
@@ -135,3 +135,11 @@
 | PayPal | 1️⃣ | 😡 |
 | Stripe | 2️⃣ | 😕 |
 | Other | 3️⃣ | 😊 |
+
+# Team
+
+|  | Role | Notes | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| D | Backend | 2 hours | Overloaded |
+| G | Frontend | 2 hours |  |
+| 3 | Funds, Tech | 0 hours | Overloaded |
