@@ -189,10 +189,10 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 
 # Funding
 
-Software is free but needs money...
+Software is free but needs money.
 
-|  | Status | Notes | Notes |
-| ------------- | ------------- | ------------- | ------------- |
+|  | Status | Notes |
+| ------------- | ------------- | ------------- |
 | Kata | ✔️ |  |
 | C13 | ✔️ |  |
 | VX | ❔ |  |
