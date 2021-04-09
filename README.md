@@ -182,7 +182,19 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | V2Z | Frontend | Don't know |  |
 | V3M | Dev team | Nope | Surely not |
 | V4S | Frontend | Don't know |  |
-| C13 | Funds, tech, employees | Unlimited |  |
+| C13 | Tech, employees | Unlimited |  |
 | C2F | Know-how, Beta-Tester |  |  |
 | C3P | Know-how, Beta-Tester |  |  |
 | C4R | Know-how, Beta-Tester |  |  |
+
+# Funding
+
+Software is free but needs money...
+
+|  | Status | Notes | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| Kata | ✔️ |  |
+| C13 | ✔️ |  |
+| VX | ❔ |  |
+| Github Sponsor | ❔ | 7$ and 14$ a month (free choice) |
+| % on revenue | ❔ | Like 1% (free choice) |
