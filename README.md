@@ -2,103 +2,111 @@
 
 ## Multi-domain
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐⭐⭐ | 💣💣💣 |
-| Brand-based pricing | ⭐⭐ | 💣💣 |
-| Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐⭐⭐ | 💣💣💣 | Template, logo, names, emails |
+| Brand-based pricing | ⭐⭐ | 💣💣 |   |
+| Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣 |   |
 
 ## CMS
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| News | ⭐⭐⭐⭐⭐ | 💣💣 |
-| Blog | ⭐⭐⭐⭐⭐ | 💣💣 |
-| Docs | ⭐⭐⭐ | 💣💣 |
-| Feature Requests | ⭐ | 💣💣💣💣 |
-| FAQ | ⭐ | 💣 |
-| Bug Reporting | ⭐ | 💣💣💣 |
-| Comments | ⭐⭐ | 💣💣 |
-| Downloads | ⭐ | 💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| News | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| Blog | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| Docs | ⭐⭐⭐ | 💣💣 |   |
+| Feature Requests | ⭐ | 💣💣💣💣 | Frustrating |
+| FAQ | ⭐ | 💣 |   |
+| Bug Reporting | ⭐ | 💣💣💣 |   |
+| Comments | ⭐⭐ | 💣💣 | reCAPTCHA |
+| Downloads | ⭐ | 💣💣 |   |
 
 ## SEO
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Meta tags | ⭐⭐⭐⭐⭐ | 💣💣 |
-| JSON-LD | ⭐⭐ | 💣💣 |
-| Canonical URL | ⭐⭐⭐⭐⭐ | 💣 |
-| Sitemap generator | ⭐⭐ | 💣💣 |
-| Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| SEO URL | ⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣💣 |
-| HTML Semantic Elements | ⭐⭐⭐ | 💣💣 |
-| Prevent SEO-bs (keyword stuffing, length etc.) | ⭐⭐⭐ | 💣💣💣💣 |
-| SERP preview | ⭐⭐⭐ | 💣 |
-| Blackhat SEO protection | ⭐⭐⭐⭐⭐ | 💣💣💣 |
-| Disavow tool | ⭐ | 💣 |
-| Basic statistics (hits) | ⭐ | 💣💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Meta tags | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| JSON-LD | ⭐⭐ | 💣💣 |   |
+| Canonical URL | ⭐⭐⭐⭐⭐ | 💣 |   |
+| Sitemap generator | ⭐⭐ | 💣💣 | Language/Coutry-based XML nodes |
+| Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | Fallback when translation is not available |
+| SEO URL | ⭐⭐⭐⭐ | 💣💣💣💣💣 |   |
+| Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣💣 |   |
+| HTML Semantic Elements | ⭐⭐⭐ | 💣💣 |   |
+| Prevent SEO-bs (keyword stuffing, length etc.) | ⭐⭐⭐ | 💣💣💣💣 |   |
+| SERP preview | ⭐⭐⭐ | 💣 | Moz-like |
+| Blackhat SEO protection | ⭐⭐⭐⭐⭐ | 💣💣💣 |   |
+| Disavow tool | ⭐ | 💣 |   |
+| Basic statistics (hits) | ⭐ | 💣💣💣 | Graphs |
 
 ## Billing
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| EU | ⭐⭐⭐⭐⭐ | 💣💣 |
-| UK | ⭐ | 💣 |
-| AU | ⭐ | 💣 |
-| DE | ⭐ | 💣 |
-| IT | ⭐⭐⭐ | 💣💣💣💣💣 |
-| General-purpose e-invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Italian electronic invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| User-based billing cycles | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| User-based invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
-| Credit notes | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Overpayments | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Cashfllow | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   |
+| EU | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| UK | ⭐ | 💣 |   |
+| AU | ⭐ | 💣 |   |
+| DE | ⭐ | 💣 |   |
+| IT | ⭐⭐⭐ | 💣💣💣💣💣 |   |
+| General-purpose e-invoicing | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| Italian electronic invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | Aruba. End of the story |
+| User-based billing cycles | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |   |
+| User-based invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣 |   |
+| Credit notes | ⭐⭐⭐⭐⭐ | 💣💣💣 |   |
+| Overpayments | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |   |
+| Cashflow | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | FCFO, FCFF, FCFE |
 
 ## Support tickets
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Standard suite | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Service level agreement | ⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Emergency | ⭐⭐ | 💣💣 |
-| Premium | ⭐⭐⭐⭐ | 💣💣💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Standard suite | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | Easy but time-consuming |
+| Service level agreement | ⭐⭐⭐⭐ | 💣💣💣💣💣 | Working hours, holidays etc. |
+| Emergency | ⭐⭐ | 💣💣 |   |
+| Premium | ⭐⭐⭐⭐ | 💣💣💣💣 | Paid support tickets |
 
 ## Geolocation
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Auto-complete everything | ⭐⭐⭐ | 💣💣 |
-| Auto-redirect (watch out EU regulations!) | ⭐⭐⭐ | 💣💣💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Auto-complete everything | ⭐⭐⭐ | 💣💣 |   |
+| Auto-redirect (watch out EU regulations!) | ⭐⭐⭐ | 💣💣💣💣 |   |
+| Country-based payment gateways | ⭐⭐⭐ | 💣 |   |
 
 ## OAuth-based API
  
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| GET PUT POST DELETE | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Scopes implementation | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| lazy-API for idiots | ⭐⭐⭐ | 💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   |
+| Scopes implementation | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | Owner, resellers, end-users |
+| lazy-API for idiots | ⭐⭐⭐ | 💣 |   |
 
 ## Action hooks
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 |
-| Entrypoints, NVP etc. | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 |   |
+| Entrypoints, NVP etc. | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |   |
 
 ## Affiliate Marketing
 
-|  | Importance | Difficulty |
-| ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Cookie-based | ⭐⭐⭐⭐ | 💣 |
-| Interactive attribution | ⭐⭐ | 💣💣 |
-| Manual attribution | ⭐⭐⭐⭐ | 💣 |
-| Prevent cross-affiliation & exploits | ⭐⭐⭐⭐⭐ | 💣💣 |
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   |
+| Last-click attribution | ⭐⭐⭐⭐ | 💣 |   |
+| Interactive attribution | ⭐⭐ | 💣💣 |   |
+| Manual attribution | ⭐⭐⭐⭐ | 💣 |   |
+| Prevent cross-affiliation & exploits | ⭐⭐⭐⭐⭐ | 💣💣 |   |
+| Unlockable renwards | ⭐⭐⭐ | 💣💣💣💣 |   |
+
+## Miscellaneous
+
+|  | Priority | Hate-o-Meter | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 |   |
+| Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 |   |
 
 ## Domains
 
