@@ -145,6 +145,18 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | Stripe | 2️⃣ | 😕 |
 | Other | 3️⃣ | 😊 |
 
+# Framework
+
+|  | Status | Notes |
+| ------------- | ------------- | ------------- |
+| PHP OOP | ✔️ |  |
+| Smarty or Twig | ❔ |  |
+| jQuery | ✔️ |  |
+| Bootstrap | ✔️ |  |
+| FontAwesome | ✔️ |  |
+| Sprite CSS | ✔️ |  |
+| Multi-stream support for browsers | ✔️ |  |
+
 # Team
 
 |  | Role | Effort | Notes |
