@@ -136,6 +136,8 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 
 # Integrations
 
+Avoid "exotic" solutions for now.
+
 ## Domains
 
 |  | Priority | Hate-o-Meter |
