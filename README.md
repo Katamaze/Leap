@@ -140,10 +140,10 @@
 
 |  | Role | Effort | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| D | Backend | 2 hours | Overloaded |
-| G | Frontend | 2 hours |  |
-| 3 | Funds, tech, employees, buildings |  | Different market |
-| F | Funds, Know-how |  | Still likes WHMCS |
-| P | Funds |  | Want to get rid of WHMCS |
-| R | Funds, Know-how |  | Want to get rid of WHMCS |
-| C | Developers | Lot of hours |  |
+| P1 | Backend | 2 hours | Overloaded |
+| P2 | Frontend | 2 hours |  |
+| C1 | Funds, tech, employees, buildings |  |  |
+| C2 | Funds, Know-how |  |  |
+| C3 | Funds |  |  |
+| C4 | Funds, Know-how |  |  |
+| PX | Developers | Lot of hours |  |
