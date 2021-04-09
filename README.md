@@ -125,6 +125,8 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | Selling physical products | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  | Easy peasy lemon squeezy |
 | Let e-commerce websites sell products on Marketplaces through your company | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |
+| Admin roles | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |
+| Logging | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰  |   |
 
 ## Domains
 
@@ -164,6 +166,9 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
 | Multi-stream support for browsers | ✔️ |  |
+| SorTables | ✔️ |  |
+| MagicInput | ✔️ |  |
+| HereLang | ✔️ |  |
 
 # Team
 
