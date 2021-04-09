@@ -144,6 +144,6 @@
 | G | Frontend | 2 hours |  |
 | 3 | Funds, tech, employees, buildings |  | Different market |
 | F | Funds, Know-how |  |  |
-| P | Funds | 0 hours |  |
-| R | Funds, Know-how |  |  |
+| P | Funds |  | Dislike |
+| R | Funds, Know-how |  | So and so |
 | C | Developers | Lot of hours |  |
