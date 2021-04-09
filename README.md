@@ -5,7 +5,7 @@
 Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes things a lot easier.
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | News | ⭐⭐⭐⭐⭐ | 💣💣 |   |   |
 | Blog | ⭐⭐⭐⭐⭐ | 💣💣 |   |   |
 | Docs | ⭐⭐⭐ | 💣💣 |   |   |
