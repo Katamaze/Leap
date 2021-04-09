@@ -48,10 +48,25 @@
 | Emergency | ⭐⭐ | 💣💣 |
 | Premium | ⭐⭐⭐⭐ | 💣💣💣💣 |
 
+## Geolocation
 
+|  | Importance | Difficulty |
+| ------------- | ------------- | ------------- |
+| Auto-complete everything | ⭐⭐⭐ | 💣💣 |
+| Auto-redirect (watch out EU regulations!) | ⭐⭐⭐ | 💣💣💣💣 |
 
-- GeoIP
-  - Auto-complete everything
-  - Auto-redirect (watch out EU regulations!)
-- OAuth-based API
-- 
+## OAuth-based API
+ 
+|  | Importance | Difficulty |
+| ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| GET PUT POST DELETE | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Scopes implementation | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| lazy-API for idiots | ⭐⭐⭐ | 💣 |
+
+## Action hooks
+
+|  | Importance | Difficulty |
+| ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 |
+| Entrypoints, NVP etc. | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
