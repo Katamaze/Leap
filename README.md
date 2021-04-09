@@ -1,3 +1,9 @@
+#### Table of Contents
+- [Must-Have Features](#must-have-features)
+- [Integrations](#integrations)
+- [Team](#team)
+- [Funding](#funding)
+
 # Must-Have Features
 
 ## CMS
@@ -127,6 +133,8 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | Let e-commerce websites sell products on Marketplaces through your company | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |
 | Admin roles | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |
 | Logging | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰  |   |
+
+# Integrations
 
 ## Domains
 
