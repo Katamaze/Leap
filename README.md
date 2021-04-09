@@ -116,6 +116,10 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰  | It's my pleasure |
 | Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰  |   |
+| Facebook Pixel | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
+| LinkedIn Insight Tag | ⭐⭐⭐ | 💣 | ⏰  |   |
+| Google Ad | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
+| Google AdSense | ⭐⭐⭐ | 💣 | ⏰  |   |
 | Selling physical products | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  | Easy peasy lemon squeezy |
 | Let e-commerce websites sell products on Marketplaces through your company | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |
@@ -152,6 +156,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | PHP OOP | ✔️ |  |
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
+| ionCube | 🚫 | No need |
 | Bootstrap | ✔️ |  |
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
