@@ -1,13 +1,5 @@
 # Leap
 
-## Multi-domain
-
-|  | Importance | Difficulty | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
-| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐⭐⭐ | 💣💣💣 | Template, logo, names, emails |
-| Brand-based pricing | ⭐⭐ | 💣💣 |   |
-| Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣 |   |
-
 ## CMS
 
 |  | Importance | Difficulty | Thoughts |
@@ -74,6 +66,14 @@
 | Auto-complete everything | ⭐⭐⭐ | 💣💣 |   |
 | Auto-redirect (watch out EU regulations!) | ⭐⭐⭐ | 💣💣💣💣 |   |
 | Country-based payment gateways | ⭐⭐⭐ | 💣 |   |
+
+## Multi-domain
+
+|  | Importance | Difficulty | Thoughts |
+| ------------- | ------------- | ------------- | ------------- |
+| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐⭐⭐ | 💣💣💣 | Template, logo, names, emails |
+| Brand-based pricing | ⭐⭐ | 💣💣 |   |
+| Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣 |   |
 
 ## OAuth-based API
  
