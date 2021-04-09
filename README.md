@@ -27,7 +27,7 @@ Nothing exceptional since [Mercury](https://katamaze.com/whmcs/mercury/specifica
 | JSON-LD | ⭐⭐ | 💣 | ⏰  |   |
 | Canonical URL | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |
 | Sitemap generator | ⭐⭐ | 💣💣 | ⏰  | Language/Coutry-based XML nodes |
-| Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Fallback when translation is not available |
+| Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Fallback for missing translations |
 | SEO URL | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
 | HTML Semantic Elements | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |
@@ -64,10 +64,10 @@ Have to be created from scratch.
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Standard suite | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Easy but time-consuming |
-| Service level agreement | ⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰  | Working hours, holidays etc. |
+| Standard suite | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  |  |
+| Service level agreement | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  | Working hours, holidays etc. |
 | Emergency | ⭐⭐ | 💣💣 | ⏰⏰  |   |
-| Premium | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰  | Paid support tickets |
+| Premium | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  | Paid support tickets |
 
 ## Multi-domain
 
@@ -123,7 +123,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | Google Ad | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Google AdSense | ⭐⭐⭐ | 💣 | ⏰  |   |
 | Selling physical products | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
-| Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  | Easy peasy lemon squeezy |
+| Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  |  |
 | Let e-commerce websites sell products on Marketplaces through your company | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |
 | Admin roles | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |
 | Logging | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰  |   |
