@@ -6,14 +6,16 @@ Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes thing
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| News | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |
-| Blog | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |
-| Docs | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |
-| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  | Frustrating |
-| FAQ | ⭐ | 💣 | ⏰⏰  |   |
-| Bug Reporting | ⭐ | 💣💣 | ⏰⏰  |   |
-| Comments | ⭐⭐ | 💣💣 | ⏰⏰  | reCAPTCHA |
-| Downloads | ⭐ | 💣💣 | ⏰⏰⏰  |   |
+| News | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |
+| Blog | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |
+| Docs | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |
+| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  | Frustrating |
+| FAQ | ⭐ | 💣 | ⏰  |   |
+| Bug Reporting | ⭐ | 💣💣 | ⏰  |   |
+| Comments | ⭐⭐ | 💣💣 | ⏰  | reCAPTCHA |
+| Downloads | ⭐ | 💣💣 | ⏰⏰  |   |
+| Widgets | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
+| Page builder | ⭐ | 💣💣💣 | ⏰⏰⏰  |   |
 
 ## SEO
 
