@@ -17,7 +17,7 @@ Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes thing
 
 ## SEO
 
-Nothing impossible since we can copy/paste [Mercury](https://katamaze.com/whmcs/mercury/specifications).
+Nothing exceptional since I can copy/paste [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -30,7 +30,7 @@ Nothing impossible since we can copy/paste [Mercury](https://katamaze.com/whmcs/
 | Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
 | HTML Semantic Elements | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |
 | Prevent SEO-bs (keyword stuffing, length etc.) | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |
-| SERP preview | ⭐⭐⭐ | 💣 | Moz-like | ⏰  |
+| SERP preview | ⭐⭐⭐ | 💣 | ⏰  | Moz-like |
 | Blackhat SEO protection | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |
 | Disavow tool | ⭐ | 💣 | ⏰⏰  |   |
 | Basic statistics (hits) | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  | Graphs |
