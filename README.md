@@ -39,6 +39,25 @@
 | Disavow tool | ⭐ | 💣 |
 | Basic statistics (hits) | ⭐ | 💣💣💣 |
 
+## Billing
+
+|  | Importance | Difficulty |
+| ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| EU | ⭐⭐⭐⭐⭐ | 💣💣 |
+| UK | ⭐ | 💣 |
+| AU | ⭐ | 💣 |
+| DE | ⭐ | 💣 |
+| IT | ⭐⭐⭐ | 💣💣💣💣💣 |
+| General-purpose e-invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Italian electronic invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| User-based billing cycles | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| User-based invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
+| Credit notes | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Overpayments | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Cashfllow | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+
 ## Support tickets
 
 |  | Importance | Difficulty |
@@ -81,21 +100,27 @@
 | Manual attribution | ⭐⭐⭐⭐ | 💣 |
 | Prevent cross-affiliation & exploits | ⭐⭐⭐⭐⭐ | 💣💣 |
 
-## Billing
+## Domains
 
-|  | Importance | Difficulty |
+|  | Priority | Hate-o-Meter |
 | ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| EU | ⭐⭐⭐⭐⭐ | 💣💣 |
-| UK | ⭐ | 💣 |
-| AU | ⭐ | 💣 |
-| DE | ⭐ | 💣 |
-| IT | ⭐⭐⭐ | 💣💣💣💣💣 |
-| General-purpose e-invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Italian electronic invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| User-based billing cycles | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| User-based invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
-| Credit notes | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Overpayments | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
-| Cashfllow | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Internetbs | 1️⃣ | 😊 |
+| eNom | 4️⃣ | 😡 |
+| ResellerClub | 3️⃣ | 😕 |
+| Hexonet | 2️⃣ | 😊 |
+
+## Hosting
+
+|  | Priority | Hate-o-Meter |
+| ------------- | ------------- | ------------- |
+| Plesk | 1️⃣ | 😡 |
+| cPanel | 2️⃣ | 😡 |
+| DirectAdmin | 3️⃣ | 😊 |
+
+## Payment Gateways
+
+|  | Priority | Hate-o-Meter |
+| ------------- | ------------- | ------------- |
+| PayPal | 1️⃣ | 😡 |
+| Stripe | 2️⃣ | 😕 |
+| Other | 3️⃣ | 😊 |
