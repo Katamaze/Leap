@@ -107,6 +107,9 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 |   |
 | Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 |   |
+| Selling physical products | ⭐⭐⭐ | 💣💣💣💣 |   |
+| Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | Easy peasy lemon squeezy |
+| Let e-commerce websites sell products on Marketplaces through your company | ⭐⭐⭐⭐ | 💣💣💣 | |
 
 ## Domains
 
