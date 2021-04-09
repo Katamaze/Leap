@@ -70,3 +70,32 @@
 | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 |
 | Entrypoints, NVP etc. | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
+
+## Affiliate Marketing
+
+|  | Importance | Difficulty |
+| ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Cookie-based | ⭐⭐⭐⭐ | 💣 |
+| Interactive attribution | ⭐⭐ | 💣💣 |
+| Manual attribution | ⭐⭐⭐⭐ | 💣 |
+| Prevent cross-affiliation & exploits | ⭐⭐⭐⭐⭐ | 💣💣 |
+
+## Billing
+
+|  | Importance | Difficulty |
+| ------------- | ------------- | ------------- |
+| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| EU | ⭐⭐⭐⭐⭐ | 💣💣 |
+| UK | ⭐ | 💣 |
+| AU | ⭐ | 💣 |
+| DE | ⭐ | 💣 |
+| IT | ⭐⭐⭐ | 💣💣💣💣💣 |
+| General-purpose e-invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Italian electronic invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| User-based billing cycles | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| User-based invoicing | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |
+| Credit notes | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Overpayments | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
+| Cashfllow | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |
