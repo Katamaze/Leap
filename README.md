@@ -54,7 +54,7 @@ Can recycle most concepts and scripts from [Billing Extension](https://katamaze.
 | Credit notes | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰  |   |
 | Overpayments | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |
 | Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |
-| Cashflow | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  | FCFO, FCFF, FCFE |
+| Cashflow | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  | |
 
 ## Support tickets
 
