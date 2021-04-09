@@ -140,10 +140,14 @@
 
 |  | Role | Effort | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| P1 | Backend | 2 hours | Overloaded |
-| P2 | Frontend | 2 hours |  |
-| C1 | Funds, tech, employees, buildings |  |  |
-| C2 | Funds, Know-how |  |  |
-| C3 | Funds |  |  |
-| C4 | Funds, Know-how |  |  |
-| PX | Developers | Lot of hours |  |
+| P1K | Backend | 2 hours | Overloaded |
+| P2K | Frontend | 2 hours |  |
+| PXG | Dev team | Lot of hours |  |
+| V1W | Backend | Don't know |  |
+| V2Z | Frontend | Don't know |  |
+| V3M | Dev team | Nope | Surely not |
+| V4S | Frontend | Don't know |  |
+| C13 | Funds, tech, employees |  |  |
+| C2F | Know-how, Beta-Tester |  |  |
+| C3P | Know-how, Beta-Tester |  |  |
+| C4R | Know-how, Beta-Tester |  |  |
