@@ -157,6 +157,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
 | ionCube | 🚫 | No need |
+| Laravel | ❔ | What's the point? |
 | Bootstrap | ✔️ |  |
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
