@@ -176,7 +176,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 |  | Role | Effort | Notes |
 | ------------- | ------------- | ------------- | ------------- |
 | P1K | Backend | 2 hours | Overloaded |
-| P2K | Frontend | 2 hours |  |
+| P2K | Frontend | 2 hours | RA |
 | PXG | Dev team | Lot of hours |  |
 | V1W | Backend | Don't know |  |
 | V2Z | Frontend | Don't know |  |
