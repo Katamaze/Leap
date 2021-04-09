@@ -196,5 +196,6 @@ Software is free but needs money.
 | Kata | ✔️ |  |
 | C13 | ✔️ |  |
 | VX | ❔ |  |
-| Github Sponsor | ❔ | 7$ and 14$ a month (free choice) |
+| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) |
 | % on revenue | ❔ | Like 1% (free choice) |
+| Donations | ✔️ |  |
