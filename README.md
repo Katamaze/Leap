@@ -166,9 +166,9 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
 | Multi-stream support for browsers | ✔️ |  |
-| SorTables | ✔️ |  |
-| MagicInput | ✔️ |  |
-| HereLang | ✔️ |  |
+| [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ |  |
+| [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |  |
+| [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |  |
 
 # Team
 
