@@ -20,7 +20,7 @@ Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes thing
 Nothing impossible since we can copy/paste [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Meta tags | ⭐⭐⭐⭐⭐ | 💣 |   |   |
 | JSON-LD | ⭐⭐ | 💣 |   |   |
 | Canonical URL | ⭐⭐⭐⭐⭐ | 💣 |   |   |
@@ -40,7 +40,7 @@ Nothing impossible since we can copy/paste [Mercury](https://katamaze.com/whmcs/
 I can recycle most concepts and scripts from [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications)
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   |   |
 | EU | ⭐⭐⭐⭐⭐ | 💣💣 |   |   |
 | UK | ⭐ | 💣 |   |   |
@@ -59,7 +59,7 @@ I can recycle most concepts and scripts from [Billing Extension](https://katamaz
 ## Support tickets
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Standard suite | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   | Easy but time-consuming |
 | Service level agreement | ⭐⭐⭐⭐ | 💣💣💣💣💣 |   | Working hours, holidays etc. |
 | Emergency | ⭐⭐ | 💣💣 |   |   |
@@ -70,7 +70,7 @@ I can recycle most concepts and scripts from [Billing Extension](https://katamaz
 Most of these features already exist in [Mercury](https://katamaze.com/whmcs/mercury/specifications) and [Payments Bundle](https://katamaze.com/whmcs/payments-bundle).
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐⭐⭐ | 💣💣💣 | Template, logo, names, emails |
 | Brand-based pricing | ⭐⭐ | 💣💣 |   |   |
 | Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣 |   |   |
@@ -83,7 +83,7 @@ Most of these features already exist in [Mercury](https://katamaze.com/whmcs/mer
 Can re-use the structure of an existing project of mine
  
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   |   |
 | Scopes implementation | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   | Owner, resellers, end-users |
 | lazy-API for idiots | ⭐⭐⭐ | 💣 |   |   |
@@ -91,7 +91,7 @@ Can re-use the structure of an existing project of mine
 ## Action hooks
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 |   |   |
 | Entrypoints, NVP etc. | ⭐⭐⭐⭐⭐ | 💣💣💣💣 |   |   |
 
@@ -100,7 +100,7 @@ Can re-use the structure of an existing project of mine
 Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 
 |  | Importance | Difficulty | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 |   |   |
 | Last-click attribution | ⭐⭐⭐⭐ | 💣 |   |   |
 | Interactive attribution | ⭐⭐ | 💣💣 |   |   |
@@ -111,7 +111,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 ## Miscellaneous
 
 |  | Priority | Hate-o-Meter | Time | Thoughts |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 |   | EASY! |
 | Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 |   |   |
 | Selling physical products | ⭐⭐⭐ | 💣💣💣💣 |   |   |
