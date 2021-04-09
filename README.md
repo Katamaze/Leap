@@ -58,6 +58,8 @@ Can recycle most concepts and scripts from [Billing Extension](https://katamaze.
 
 ## Support tickets
 
+Have to be created from scratch.
+
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Standard suite | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Easy but time-consuming |
