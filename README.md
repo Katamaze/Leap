@@ -17,7 +17,7 @@ Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes thing
 
 ## SEO
 
-Nothing exceptional since I can copy/paste [Mercury](https://katamaze.com/whmcs/mercury/specifications).
+Nothing exceptional since [Mercury](https://katamaze.com/whmcs/mercury/specifications) can be copy/pasted.
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -37,7 +37,7 @@ Nothing exceptional since I can copy/paste [Mercury](https://katamaze.com/whmcs/
 
 ## Billing
 
-I can recycle most concepts and scripts from [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications)
+Can recycle most concepts and scripts from [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -80,7 +80,7 @@ Most of these features already exist in [Mercury](https://katamaze.com/whmcs/mer
 
 ## OAuth-based API
 
-Can re-use the structure of an existing project of mine
+Can re-use the structure from another project.
  
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -112,7 +112,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 
 |  | Priority | Hate-o-Meter | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰  | EASY! |
+| Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰  | It's my pleasure |
 | Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰  |   |
 | Selling physical products | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  | Easy peasy lemon squeezy |
