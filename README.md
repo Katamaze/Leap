@@ -143,7 +143,7 @@
 | D | Backend | 2 hours | Overloaded |
 | G | Frontend | 2 hours |  |
 | 3 | Funds, tech, employees, buildings |  | Different market |
-| F | Funds, Know-how |  |  |
-| P | Funds |  | Dislike |
-| R | Funds, Know-how |  | So and so |
+| F | Funds, Know-how |  | Still likes WHMCS |
+| P | Funds |  | Want to get rid of WHMCS |
+| R | Funds, Know-how |  | Want to get rid of WHMCS |
 | C | Developers | Lot of hours |  |
