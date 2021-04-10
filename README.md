@@ -179,12 +179,12 @@ Avoid "exotic" solutions for now.
 
 |  | Status | Notes |
 | ------------- | ------------- | ------------- |
-| PHP OOP | ✔️ | Any version newer than 5.6 |
+| PHP OOP | ✔️ | Any version >= 5.6 |
 | PHP PSR | ❔ | PSR-4 Autoloader |
 | Composer | ❔ | Avoidable? Few people know how use it |
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
-| ionCube | 🚫 | No need |
+| ionCube | 🚫 |  |
 | MySQL | ✔️ |  |
 | Laravel | ❔ | What's the point? Raw PDO |
 | Bootstrap | ✔️ |  |
