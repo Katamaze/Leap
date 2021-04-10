@@ -10,8 +10,8 @@
 
 ## CMS
 
-Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
-ETA (very tentative): 50 FTE
+- Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
+- ETA (very tentative): 50 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -28,8 +28,8 @@ ETA (very tentative): 50 FTE
 
 ## SEO
 
-Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
-ETA (very tentative): 20 FTE
+- Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
+- ETA (very tentative): 20 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -49,8 +49,8 @@ ETA (very tentative): 20 FTE
 
 ## Billing
 
-Facilitator: [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications).
-ETA (very tentative): 80 FTE
+- Facilitator: [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications).
+- ETA (very tentative): 80 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -71,8 +71,8 @@ ETA (very tentative): 80 FTE
 
 ## Support tickets
 
-Have to be created from scratch.
-ETA (very tentative): 40 FTE
+- Have to be created from scratch.
+- ETA (very tentative): 40 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -83,8 +83,8 @@ ETA (very tentative): 40 FTE
 
 ## Multi-domain
 
-Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications), [Payments Bundle](https://katamaze.com/whmcs/payments-bundle).
-ETA (very tentative): 60 FTE
+- Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications), [Payments Bundle](https://katamaze.com/whmcs/payments-bundle).
+- ETA (very tentative): 60 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -97,8 +97,8 @@ ETA (very tentative): 60 FTE
 
 ## OAuth-based API
 
-Facilitator: Can re-use the structure from another project.
-ETA (very tentative): 30 FTE
+- Facilitator: Can re-use the structure from another project.
+- ETA (very tentative): 30 FTE
  
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -109,7 +109,7 @@ ETA (very tentative): 30 FTE
 
 ## Action hooks
 
-ETA (very tentative): 15 FTE
+- ETA (very tentative): 15 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -118,8 +118,8 @@ ETA (very tentative): 15 FTE
 
 ## Affiliate Marketing
 
-Facilitator: [Commission Manager](https://katamaze.com/whmcs/commission-manager).
-ETA (very tentative): 60 FTE
+- Facilitator: [Commission Manager](https://katamaze.com/whmcs/commission-manager).
+- ETA (very tentative): 60 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
