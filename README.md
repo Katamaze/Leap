@@ -15,7 +15,7 @@ Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes thing
 | News | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |
 | Blog | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |
 | Docs | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |
-| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  | Frustrating |
+| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  |  |
 | FAQ | ⭐ | 💣 | ⏰  |   |
 | Bug Reporting | ⭐ | 💣💣 | ⏰  |   |
 | Comments | ⭐⭐ | 💣💣 | ⏰  | reCAPTCHA |
@@ -32,7 +32,7 @@ Nothing exceptional since [Mercury](https://katamaze.com/whmcs/mercury/specifica
 | Meta tags | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |
 | JSON-LD | ⭐⭐ | 💣 | ⏰  |   |
 | Canonical URL | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |
-| Sitemap generator | ⭐⭐ | 💣💣 | ⏰  | Language/Coutry-based XML nodes |
+| Sitemap generator | ⭐⭐ | 💣💣 | ⏰  | Language/Coutry XML nodes |
 | Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Fallback for missing translations |
 | SEO URL | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
@@ -122,7 +122,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 
 |  | Priority | Hate-o-Meter | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰  | It's my pleasure |
+| Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰  |  |
 | Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰  |   |
 | Facebook Pixel | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
 | LinkedIn Insight Tag | ⭐⭐⭐ | 💣 | ⏰  |   |
@@ -130,7 +130,7 @@ Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 | Google AdSense | ⭐⭐⭐ | 💣 | ⏰  |   |
 | Selling physical products | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  |  |
-| Let e-commerce websites sell products on Marketplaces through your company | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |
+| End-users can sell on Marketplaces | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |
 | Admin roles | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |
 | Logging | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰  |   |
 
