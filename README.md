@@ -97,6 +97,7 @@ Facilitator: Can re-use the structure from another project.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰  |   |
 | Scopes implementation | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰  | Owner, resellers, end-users |
+| Keyword-based requests | ⭐⭐⭐ | 💣 | ⏰  |   |
 | lazy-API for idiots | ⭐⭐⭐ | 💣 | ⏰  |   |
 
 ## Action hooks
