@@ -178,8 +178,9 @@ Avoid "exotic" solutions for now.
 | Sprite CSS | ✔️ |  |
 | TCPDF | 🚫 | Literally sucks. Find alternative |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer |
-| Multi-stream support for browsers | ✔️ |  |
-| [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ |  |
+| [DataTables](https://datatables.net/) | ❔ | Front-end tables |
+| [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ | Back-end tables |
+| Multi-stream support for browsers | ✔️ | Parallel downloads |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |  |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |  |
 
