@@ -33,7 +33,7 @@ Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 | Meta tags | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |
 | JSON-LD | ⭐⭐ | 💣 | ⏰  |   |
 | Canonical URL | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |
-| Sitemap generator | ⭐⭐ | 💣💣 | ⏰  | Language/Coutry XML nodes |
+| Sitemap generator | ⭐⭐ | 💣💣 | ⏰  | Language/Coutry [XML nodes](https://katamaze.com/docs/mercury/31/whmcs-sitemap-generator#XML-Structure) |
 | Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Fallback for missing translations |
 | SEO URL | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |
 | Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
