@@ -151,7 +151,7 @@ Avoid "exotic" solutions for now.
 
 |  | Priority | Hate-o-Meter | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| Plesk | 1️⃣ | 😡 |   |
+| Plesk | 1️⃣ | 😡 | Most used |
 | cPanel | 2️⃣ | 😡 |   |
 | DirectAdmin | 3️⃣ | 😊 |   |
 
