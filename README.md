@@ -215,7 +215,15 @@ Software is free but needs money.
 | ------------- | ------------- | ------------- |
 | P1K | ✔️ |  |
 | C13 | ✔️ |  |
-| VX | ❔ |  |
+| VX |  ❔ |  |
 | Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) |
-| % on revenue | ❔ | Like 1% (free choice) |
+| % on revenue | 🚫 | Absolutely not |
 | Donations | ✔️ |  |
+
+# Questions
+
+## Prove we won't roll over for clowns (cough WebPros) some day in the future
+
+* Old school notarial deed ❔
+* Crypto-something with locked funds in tokens/wallets ❔
+* Reputation ❔
