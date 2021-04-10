@@ -172,7 +172,7 @@ Avoid "exotic" solutions for now.
 | jQuery | ✔️ |  |
 | ionCube | 🚫 | No need |
 | MySQL | ✔️ |  |
-| Laravel | ❔ | What's the point? |
+| Laravel | ❔ | What's the point? Raw PDO |
 | Bootstrap | ✔️ |  |
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
