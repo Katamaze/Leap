@@ -1,6 +1,7 @@
 #### Table of Contents
 - [Must-Have Features](#must-have-features)
 - [Integrations](#integrations)
+- [Framework](#framework)
 - [Team](#team)
 - [Funding](#funding)
 
