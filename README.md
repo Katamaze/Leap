@@ -167,7 +167,7 @@ Avoid "exotic" solutions for now.
 
 |  | Status | Notes |
 | ------------- | ------------- | ------------- |
-| PHP OOP | ✔️ |  |
+| PHP OOP | ✔️ | Any version newer than 5.6 |
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
 | ionCube | 🚫 | No need |
