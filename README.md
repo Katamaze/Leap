@@ -170,6 +170,8 @@ Avoid "exotic" solutions for now.
 |  | Status | Notes |
 | ------------- | ------------- | ------------- |
 | PHP OOP | ✔️ | Any version newer than 5.6 |
+| PHP PSR | ❔ | PSR-4 Autoloader |
+| Composer | ❔ | Avoidable? Few people know how use it |
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
 | ionCube | 🚫 | No need |
@@ -186,7 +188,6 @@ Avoid "exotic" solutions for now.
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |  |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |  |
 | Installer | ✔️ | Classic. Zip, upload, enjoy |
-| Composer | ❔ | Avoidable? Few people know how use it |
 | Automatic Updates | ❔ | So and so |
 | Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant |
 
