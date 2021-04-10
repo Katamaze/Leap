@@ -11,6 +11,7 @@
 ## CMS
 
 Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
+ETA (very tentative): 50 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -28,6 +29,7 @@ Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 ## SEO
 
 Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
+ETA (very tentative): 20 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -48,6 +50,7 @@ Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 ## Billing
 
 Facilitator: [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications).
+ETA (very tentative): 80 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -69,6 +72,7 @@ Facilitator: [Billing Extension](https://katamaze.com/whmcs/billing-extension/sp
 ## Support tickets
 
 Have to be created from scratch.
+ETA (very tentative): 40 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -80,6 +84,7 @@ Have to be created from scratch.
 ## Multi-domain
 
 Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications), [Payments Bundle](https://katamaze.com/whmcs/payments-bundle).
+ETA (very tentative): 60 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -93,6 +98,7 @@ Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications), [Paym
 ## OAuth-based API
 
 Facilitator: Can re-use the structure from another project.
+ETA (very tentative): 30 FTE
  
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -103,6 +109,8 @@ Facilitator: Can re-use the structure from another project.
 
 ## Action hooks
 
+ETA (very tentative): 15 FTE
+
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |
@@ -111,6 +119,7 @@ Facilitator: Can re-use the structure from another project.
 ## Affiliate Marketing
 
 Facilitator: [Commission Manager](https://katamaze.com/whmcs/commission-manager).
+ETA (very tentative): 60 FTE
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
