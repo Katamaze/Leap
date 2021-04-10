@@ -222,7 +222,7 @@ Software is free but needs money.
 
 # Questions
 
-## Prove we won't roll over for clowns (cough WebPros) some day in the future
+### How to prove we won't roll over for clowns (cough WebPros) some day in the future
 
 * Old school notarial deed ❔
 * Crypto-something with locked funds in tokens/wallets ❔
