@@ -4,6 +4,7 @@
 - [Framework](#framework)
 - [Team](#team)
 - [Funding](#funding)
+- [Questions](#questions)
 
 # Must-Have Features
 
@@ -223,7 +224,8 @@ Software is free but needs money.
 | Involve Data Farm | ❔ | Sell data and tracking |
 | Ads | ✔️ | On our website (not in the software) |
 | Freemium | 🚫 |  |
-| Donation/Tip Goal | ❔ | "Goal: Feature X - 1.000 $ to go"  |
+| Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |
+| SLA | ❔ | Risky |
 
 # Questions
 
