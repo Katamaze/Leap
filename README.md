@@ -219,11 +219,23 @@ Software is free but needs money.
 | Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) |
 | % on revenue | 🚫 | Absolutely not |
 | Donations | ✔️ |  |
+| Partnership | ✔️ | Can only work with some registrars |
+| Involve Data Farm | ❔ | Sell data and tracking |
+| Ads | ✔️ | On our website (not in the software) |
+| Freemium | 🚫 |  |
+| Donation/Tip Goal | ❔ | "Goal: Feature X - 1.000 $ to go"  |
 
 # Questions
 
 ### How to prove we won't roll over for clowns (cough WebPros) some day in the future
 
-* Old school notarial deed ❔
 * Crypto-something with locked funds in tokens/wallets ❔
+* Old school notarial deed ❔
 * Reputation ❔
+* We can't ❔
+
+### Customer support
+
+* Github ✔️
+* Forum ✔️
+* Ticket ❔
