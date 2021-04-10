@@ -183,6 +183,7 @@ Avoid "exotic" solutions for now.
 | Multi-stream support for browsers | ✔️ | Parallel downloads |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |  |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |  |
+| Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant |
 
 # Team
 
