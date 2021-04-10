@@ -176,6 +176,7 @@ Avoid "exotic" solutions for now.
 | Bootstrap | ✔️ |  |
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
+| TCPDF | 🚫 | Literally sucks. Find alternative |
 | Multi-stream support for browsers | ✔️ |  |
 | [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ |  |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |  |
