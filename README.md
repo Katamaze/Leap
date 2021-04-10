@@ -38,7 +38,7 @@ Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 | Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |
 | HTML Semantic Elements | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |
 | Prevent SEO-bs (keyword stuffing, length etc.) | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |
-| SERP preview | ⭐⭐⭐ | 💣 | ⏰  | Moz-like |
+| SERP preview | ⭐⭐⭐ | 💣 | ⏰  | [Moz-like](https://moz.com/learn/seo/title-tag) |
 | Blackhat SEO protection | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |
 | Disavow tool | ⭐ | 💣 | ⏰⏰  |   |
 | Basic statistics (hits) | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  | Graphs |
@@ -177,6 +177,7 @@ Avoid "exotic" solutions for now.
 | FontAwesome | ✔️ |  |
 | Sprite CSS | ✔️ |  |
 | TCPDF | 🚫 | Literally sucks. Find alternative |
+| [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer |
 | Multi-stream support for browsers | ✔️ |  |
 | [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ |  |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |  |
