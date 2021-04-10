@@ -8,7 +8,7 @@
 
 ## CMS
 
-Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes things a lot easier.
+Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -25,7 +25,7 @@ Porting [Mercury](https://katamaze.com/whmcs/mercury/specifications) makes thing
 
 ## SEO
 
-Nothing exceptional since [Mercury](https://katamaze.com/whmcs/mercury/specifications) can be copy/pasted.
+Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -45,7 +45,7 @@ Nothing exceptional since [Mercury](https://katamaze.com/whmcs/mercury/specifica
 
 ## Billing
 
-Can recycle most concepts and scripts from [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications).
+Facilitator: [Billing Extension](https://katamaze.com/whmcs/billing-extension/specifications).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -77,7 +77,7 @@ Have to be created from scratch.
 
 ## Multi-domain
 
-Most of these features already exist in [Mercury](https://katamaze.com/whmcs/mercury/specifications) and [Payments Bundle](https://katamaze.com/whmcs/payments-bundle).
+Facilitator: [Mercury](https://katamaze.com/whmcs/mercury/specifications), [Payments Bundle](https://katamaze.com/whmcs/payments-bundle).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -90,7 +90,7 @@ Most of these features already exist in [Mercury](https://katamaze.com/whmcs/mer
 
 ## OAuth-based API
 
-Can re-use the structure from another project.
+Facilitator: Can re-use the structure from another project.
  
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -107,7 +107,7 @@ Can re-use the structure from another project.
 
 ## Affiliate Marketing
 
-Simply port [Commission Manager](https://katamaze.com/whmcs/commission-manager).
+Facilitator: [Commission Manager](https://katamaze.com/whmcs/commission-manager).
 
 |  | Importance | Difficulty | Time | Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -140,28 +140,28 @@ Avoid "exotic" solutions for now.
 
 ## Domains
 
-|  | Priority | Hate-o-Meter |
-| ------------- | ------------- | ------------- |
-| Internetbs | 1️⃣ | 😊 |
-| eNom | 4️⃣ | 😡 |
-| ResellerClub | 3️⃣ | 😕 |
-| Hexonet | 2️⃣ | 😊 |
+|  | Priority | Hate-o-Meter | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| Internetbs | 1️⃣ | 😊 |   |
+| eNom | 4️⃣ | 😡 |   |
+| ResellerClub | 3️⃣ | 😕 | It's LogicBoxes. Integrate one to integrate many |
+| Hexonet | 2️⃣ | 😊 |   |
 
 ## Hosting
 
-|  | Priority | Hate-o-Meter |
-| ------------- | ------------- | ------------- |
-| Plesk | 1️⃣ | 😡 |
-| cPanel | 2️⃣ | 😡 |
-| DirectAdmin | 3️⃣ | 😊 |
+|  | Priority | Hate-o-Meter | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| Plesk | 1️⃣ | 😡 |   |
+| cPanel | 2️⃣ | 😡 |   |
+| DirectAdmin | 3️⃣ | 😊 |   |
 
 ## Payment Gateways
 
-|  | Priority | Hate-o-Meter |
-| ------------- | ------------- | ------------- |
-| PayPal | 1️⃣ | 😡 |
-| Stripe | 2️⃣ | 😕 |
-| Other | 3️⃣ | 😊 |
+|  | Priority | Hate-o-Meter | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| PayPal | 1️⃣ | 😡 |   |
+| Stripe | 2️⃣ | 😕 |   |
+| Other | 3️⃣ | 😊 |   |
 
 # Framework
 
