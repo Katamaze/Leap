@@ -220,15 +220,16 @@ Avoid "exotic" solutions for now.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | P1K | Backend | 2 hours | Overloaded | Active |
 | P2K | Frontend | 2 hours | RA | Active in a couple of weeks |
-| PXG | Dev team | Lot of hours |   |   |
-| V1W | Backend | Don't know |   |   |
-| V2Z | Frontend | Don't know |   |   |
-| V3M | Dev team | Nope | Surely not |   |
-| V4S | Frontend | Don't know |   |   |
+| PXG | Dev team | Lot of hours |   | Doesn't depend on us |
+| V1W | Backend | Don't know |   | Need to ask |
+| V2Z | Frontend | Don't know |   | Need to ask |
+| V3M | Dev team | Nope | Surely not | Ask when there's enough code to show |
+| V4S | Frontend | Don't know |   | Need to ask |
 | C13 | Tech, employees | Unlimited |   | Seed stage |
-| C2F | Know-how, Beta-Tester |   |   | Seed stage |
-| C3P | Know-how, Beta-Tester |   |   | Seed stage |
-| C4R | Know-how, Beta-Tester |   |   | Seed stage |
+| C2F | Know-how, Beta-Tester |   |   | Active |
+| C3P | Know-how, Beta-Tester |   |   | Active |
+| C4R | Know-how, Beta-Tester |   |   | Need to ask |
+| C5S | Know-how, Beta-Tester |   |   | Active |
 
 # Funding
 
