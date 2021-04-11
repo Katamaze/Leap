@@ -256,10 +256,12 @@ Personally I can also provide the following:
 * ionCube Pro & Special Edition GUI (2 seats) but I guess we don't need it 😆
 * [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
 * Servers
+* Office (4 seats) but I bet we will never use it
 * Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) license needed for SEO
 * 2x approved Google AdSense account
 * Approved Amazon SP-API & MWS developer account
-* Office (4 seats) but I bet we will never use it
+* Tens of various developer accounts
+* Lifetime [TCAdmin](https://www.tcadmin.com/pricing/) 1x Pro Master, 3x Pro Remote Server in case we need to integrate game service providers
 
 # Localisation
 
