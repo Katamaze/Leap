@@ -258,6 +258,7 @@ Personally I can also provide the following:
 * Servers
 * Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) license needed for SEO
 * 2x approved Google AdSense account
+* Approved Amazon SP-API & MWS developer account
 * Office (4 seats) but I bet we will never use it
 
 # Localisation
