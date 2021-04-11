@@ -9,12 +9,12 @@
 
 ### How to read tables
 
-|  | Icon | Description
-| ------------- | ------------- | ------------- |
-| Importance | ⭐ | 1x Low, 2x Medium, 3 High |
-| Difficulty | 💣 | 1x Low, 2x Medium, 3 High |
-| Time | ⏰ | 1x Low, 2x Medium, 3 High |
-| Status | 🟢 Completed<br>🟠 In progress<br>🔵 Stalled<br>🔴 Dropped |   |
+|  | Icon |
+| ------------- | ------------- |
+| Importance | ⭐ Low<br>⭐⭐ Medium<br>⭐⭐⭐ High |
+| Difficulty | 💣 Low<br>💣💣 Medium<br>💣💣💣 High |
+| Time | ⏰ Low<br>⏰⏰ Medium<br>⏰⏰⏰ High |
+| Status | 🟢 Completed<br>🟠 In progress<br>🔵 Stalled<br>🔴 Dropped |
 
 # Must-Have Features
 
