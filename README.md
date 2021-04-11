@@ -286,6 +286,7 @@ Personally I can also provide the following:
 ### Customer support
 
 * Github ✔️
+* Stack Overflow ❔
 * Forum ✔️
 * Ticket ❔
 
