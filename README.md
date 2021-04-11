@@ -256,4 +256,5 @@ Software is free but needs money.
 
 # Conventions
 
-Directory names 
+* Avoid nested `if`, `return` instead
+* Stick to `AND`, `OR` instead of `&&`, `||` logic operator since many devs don't know anything about precedence
