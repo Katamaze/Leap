@@ -196,13 +196,13 @@ Avoid "exotic" solutions for now.
 | Composer | ✔️ |   | 🟠 |
 | Smarty or Twig | ❔ |   | ⚪ |
 | jQuery | ✔️ |   | ⚪ |
-| Bootstrap 5 | ✔️ |   | ⚪ |
+| Bootstrap 5 | ✔️ |   | 🟠 |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | ⚪ |
 | Laravel | ❔ | What's the point? Raw PDO | ⚪ |
-| Bootstrap | ✔️ |   | ⚪ |
-| FontAwesome | ✔️ |   | ⚪ |
+| Bootstrap | ✔️ |   | 🟠 |
+| FontAwesome | ✔️ |   | 🟠 |
 | Sprite CSS | ✔️ |   | ⚪ |
 | TCPDF | 🚫 | Literally sucks. Find alternative | ⚪ |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer | ⚪ |
