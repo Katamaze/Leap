@@ -239,7 +239,7 @@ Software is free but needs funds.
 | P1K | ✔️ |   | OK |
 | C13 | ✔️ |   | Seed stage |
 | VX |  ❔ |   |   |
-| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready but it's linked to Kata bank account 😕 Idk |
+| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready but it's linked to Katamaze bank account 😕 Should I create a new company? |
 | % on revenue | 🚫 | Absolutely not |   |
 | Donations | ✔️ |   |   |
 | Partnership | ✔️ | Can only work with some registrars |   |
