@@ -227,10 +227,10 @@ Avoid "exotic" solutions for now.
 | V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
 | V4S | Frontend | Don't know |   | Need to ask |
 | C13 | Tech, employees | Unlimited |   | Seed stage |
-| C2F | Know-how, Beta-Tester |   |   | Active |
-| C3P | Know-how, Beta-Tester |   |   | Active |
-| C4R | Know-how, Beta-Tester |   |   | Need to ask |
-| C5S | Know-how, Beta-Tester |   |   | Active |
+| C2F | Know-how, Beta-Tester |   | Provider | Active |
+| C3P | Know-how, Beta-Tester |   | Provider | Active |
+| C4R | Know-how, Beta-Tester |   | Provider | Need to ask |
+| C5S | Know-how, Beta-Tester |   | Provider | Active |
 
 # Funding
 
