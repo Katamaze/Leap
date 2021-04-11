@@ -1,0 +1,10 @@
+{
+	"autoload": {
+    	"psr-4": {
+        	"Leap\\": "app/"
+    	}
+	},
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
