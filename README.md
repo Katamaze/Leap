@@ -223,7 +223,7 @@ Avoid "exotic" solutions for now.
 | PXG | Dev team | Lot of hours |   | Doesn't depend on us |
 | V1W | Backend | Don't know |   | Need to ask |
 | V2Z | Frontend | Don't know |   | Need to ask |
-| V3M | Dev team | Lot of hours | Surely not willing to work on the core | Ask when there's enough code to show |
+| V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
 | V4S | Frontend | Don't know |   | Need to ask |
 | C13 | Tech, employees | Unlimited |   | Seed stage |
 | C2F | Know-how, Beta-Tester |   |   | Active |
