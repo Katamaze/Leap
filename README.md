@@ -4,6 +4,7 @@
 - [Framework](#framework)
 - [Team](#team)
 - [Funding](#funding)
+- [Localisation](#localisation)
 - [Questions](#questions)
 - [Conventions](#conventions)
 
@@ -247,6 +248,13 @@ Software is free but needs money.
 | Freemium | 🚫 |  |   |
 | Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |   |
 | SLA | ❔ | Risky |   |
+
+# Localisation
+
+|  | Team | Status |
+| ------------- | ------------- | ------------- |
+| English | P1K, P2K | 🟠 |
+| Italian | P1K, P2K | 🟠 |
 
 # Questions
 
