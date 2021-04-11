@@ -16,16 +16,16 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| News | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
-| Blog | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
-| Docs | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
-| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  |  |   |
+| News | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| Blog | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| Docs | ⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰  |  |   |
 | FAQ | ⭐ | 💣 | ⏰  |   |   |
 | Bug Reporting | ⭐ | 💣💣 | ⏰  |   |   |
-| Comments | ⭐⭐ | 💣💣 | ⏰  | reCAPTCHA |   |
-| Downloads | ⭐ | 💣💣 | ⏰⏰  |   |   |
-| Widgets | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
-| Page builder | ⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| Comments | ⭐ | 💣💣 | ⏰  | reCAPTCHA |   |
+| Downloads | ⭐ | 💣 | ⏰⏰  |   |   |
+| Widgets | ⭐⭐ | 💣 | ⏰⏰  |   |   |
+| Page builder | ⭐ | 💣💣 | ⏰⏰⏰  |   |   |
 
 ## SEO
 
@@ -34,19 +34,19 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Meta tags | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |   |
-| JSON-LD | ⭐⭐ | 💣 | ⏰  |   |   |
-| Canonical URL | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Sitemap generator | ⭐⭐ | 💣💣 | ⏰  | Language/Coutry [XML nodes](https://katamaze.com/docs/mercury/31/whmcs-sitemap-generator#XML-Structure) |   |
-| Multi-language stuff | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  | Fallback for missing translations |   |
-| SEO URL | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |   |
-| Open Graph Protocol | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
-| HTML Semantic Elements | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰  |   |   |
-| Prevent SEO-bs (keyword stuffing, length etc.) | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |   |
+| Meta tags | ⭐⭐⭐ | 💣 | ⏰  |   |   |
+| JSON-LD | ⭐ | 💣 | ⏰  |   |   |
+| Canonical URL | ⭐⭐ | 💣 | ⏰  |   |   |
+| Sitemap generator | ⭐ | 💣💣 | ⏰  | Language/Coutry [XML nodes](https://katamaze.com/docs/mercury/31/whmcs-sitemap-generator#XML-Structure) |   |
+| Multi-language stuff | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  | Fallback for missing translations |   |
+| SEO URL | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| Open Graph Protocol | ⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| HTML Semantic Elements | ⭐ | 💣💣 | ⏰⏰⏰  |   |   |
+| Prevent SEO-bs (keyword stuffing, length etc.) | ⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
 | SERP preview | ⭐⭐⭐ | 💣 | ⏰  | [Moz-like](https://moz.com/learn/seo/title-tag) |   |
-| Blackhat SEO protection | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |   |
-| Disavow tool | ⭐ | 💣 | ⏰⏰  |   |   |
-| Basic statistics (hits) | ⭐ | 💣💣💣 | ⏰⏰⏰⏰  | Graphs |   |
+| Blackhat SEO protection | ⭐⭐ | 💣💣 | ⏰  |   |   |
+| Disavow tool | ⭐ | 💣 | ⏰  |   |   |
+| Basic statistics (hits) | ⭐ | 💣💣💣 | ⏰⏰⏰  | Graphs |   |
 
 ## Billing
 
@@ -55,20 +55,20 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
-| EU | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰  |   |   |
+| Basic engine | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| EU | ⭐⭐ | 💣💣 | ⏰  |   |   |
 | UK | ⭐ | 💣 | ⏰  |   |   |
 | AU | ⭐ | 💣 | ⏰  |   |   |
 | DE | ⭐ | 💣 | ⏰  |   |   |
-| IT | ⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰  |   |   |
-| General-purpose e-invoicing | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰ |   |   |
-| Italian electronic invoicing | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰⏰⏰⏰  | Aruba. End of the story |   |
-| User-based billing cycles | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
-| User-based billing modes | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
-| Credit notes | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰  |   |   |
-| Overpayments | ⭐⭐⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Credit balance | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |   |
-| Cashflow | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |   |
+| IT | ⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |   |
+| General-purpose e-invoicing | ⭐⭐⭐ | 💣 | ⏰ |   |   |
+| Italian electronic invoicing | ⭐⭐⭐ | 💣 | ⏰⏰⏰  | Aruba. End of the story |   |
+| User-based billing cycles | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
+| User-based billing modes | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
+| Credit notes | ⭐⭐⭐ | 💣💣 | ⏰  |   |   |
+| Overpayments | ⭐⭐⭐ | 💣 | ⏰  |   |   |
+| Credit balance | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| Cashflow | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   |   |
 
 ## Support tickets
 
@@ -77,10 +77,10 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Standard suite | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  |   |   |
-| Service level agreement | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  | Working hours, holidays etc. |   |
-| Emergency | ⭐⭐ | 💣💣 | ⏰⏰  |   |   |
-| Premium | ⭐⭐⭐⭐ | 💣💣 | ⏰⏰  | Paid support tickets |   |
+| Standard suite | ⭐⭐⭐ | 💣 | ⏰⏰⏰  |   |   |
+| Service level agreement | ⭐⭐ | 💣💣 | ⏰⏰  | Working hours, holidays etc. |   |
+| Emergency | ⭐ | 💣 | ⏰  |   |   |
+| Premium | ⭐⭐ | 💣 | ⏰  | Paid support tickets |   |
 
 ## Multi-domain
 
@@ -89,12 +89,12 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  | Template, logo, names, emails |   |
+| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  | Template, logo, names, emails |   |
 | Brand-based pricing | ⭐⭐ | 💣💣 | ⏰⏰  |   |   |
-| Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣 | ⏰⏰  |   |   |
-| Country-based payment gateways | ⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Geolocation: Auto-redirect (watch out EU regulations!) | ⭐⭐⭐ | 💣💣💣💣 | ⏰  |   |   |
-| Geolocation: Auto-complete fields | ⭐⭐⭐ | 💣💣 | ⏰  |   |   |
+| Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| Country-based payment gateways | ⭐ | 💣 | ⏰  |   |   |
+| Geolocation: Auto-redirect (watch out EU regulations!) | ⭐ | 💣💣 | ⏰  |   |   |
+| Geolocation: Auto-complete fields | ⭐⭐ | 💣💣 | ⏰  |   |   |
 
 ## OAuth-based API
 
@@ -103,10 +103,10 @@
  
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰  |   |   |
-| Scopes implementation | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰  | Owner, resellers, end-users |   |
+| Basic engine | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| Scopes implementation | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  | Owner, resellers, end-users |   |
 | Keyword-based requests | ⭐ | 💣 | ⏰  |   |   |
-| lazy-API for idiots | ⭐⭐⭐ | 💣 | ⏰  |   |   |
+| lazy-API for idiots | ⭐ | 💣 | ⏰  |   |   |
 
 ## Action hooks
 
@@ -114,8 +114,8 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |   |
-| Entrypoints, NVP etc. | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
+| Basic engine | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| Entrypoints, NVP etc. | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
 
 ## Affiliate Marketing
 
@@ -124,28 +124,28 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Basic engine | ⭐⭐⭐⭐⭐ | 💣💣💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
-| Last-click attribution | ⭐⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Interactive attribution | ⭐⭐ | 💣💣 | ⏰  |   |   |
-| Manual attribution | ⭐⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Prevent cross-affiliation & exploits | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰  |   |   |
-| Unlockable rewards | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
+| Basic engine | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| Last-click attribution | ⭐⭐ | 💣 | ⏰  |   |   |
+| Interactive attribution | ⭐ | 💣 | ⏰  |   |   |
+| Manual attribution | ⭐⭐⭐ | 💣 | ⏰  |   |   |
+| Prevent cross-affiliation & exploits | ⭐⭐⭐ | 💣💣 | ⏰  |   |   |
+| Unlockable rewards | ⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
 
 ## Miscellaneous
 
 |  | Priority | Hate-o-Meter | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Migration tool from WHMCS | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰⏰  |  |   |
-| Snapshot order details | ⭐⭐⭐⭐⭐ | 💣 | ⏰⏰  |   |   |
-| Facebook Pixel | ⭐⭐⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
-| LinkedIn Insight Tag | ⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Google Ad | ⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |   |
-| Google AdSense | ⭐⭐⭐ | 💣 | ⏰  |   |   |
-| Selling physical products | ⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |   |
-| Selling on Amazon, eBay, Zalando etc. | ⭐⭐⭐⭐ | 💣 | ⏰⏰⏰⏰⏰  |   |   |
-| End-users can sell on Marketplaces | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰⏰  |   |   |
-| Admin roles | ⭐⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰⏰  |   |   |
-| Logging | ⭐⭐⭐⭐⭐ | 💣💣💣💣 | ⏰⏰⏰⏰  |   |   |
+| Migration tool from WHMCS | ⭐⭐⭐ | 💣 | ⏰⏰⏰  |  |   |
+| Snapshot order details | ⭐⭐⭐ | 💣 | ⏰⏰  |   |   |
+| Facebook Pixel | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   |   |
+| LinkedIn Insight Tag | ⭐⭐ | 💣 | ⏰  |   |   |
+| Google Ad | ⭐⭐ | 💣💣💣💣 | ⏰⏰  |   |   |
+| Google AdSense | ⭐⭐ | 💣 | ⏰  |   |   |
+| Selling physical products | ⭐⭐ | 💣💣💣💣 | ⏰⏰⏰  |   |   |
+| Selling on Amazon, eBay, Zalando etc. | ⭐⭐ | 💣 | ⏰⏰⏰  |   |   |
+| End-users can sell on Marketplaces | ⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   |   |
+| Admin roles | ⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |   |
+| Logging | ⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   |   |
 
 # Integrations
 
