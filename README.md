@@ -294,6 +294,6 @@ Personally I can also provide the following:
 
 * Avoid nested `if`, `return` instead
 * Stick to `AND`, `OR` instead of `&&`, `||` logic operators. Many devs don't know anything about precedence
-* `StudlyCaps` or `camelCase`?
+* Classes `StudlyCaps` methods & variables `camelCase`
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
