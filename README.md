@@ -237,10 +237,10 @@ Software is free but needs funds.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| P1K | ✔️ |   | Ok |
+| P1K | ✔️ |   | Ready |
 | C13 | ✔️ |   | Seed stage |
 | VX |  ❔ |   |   |
-| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready but linked to Katamaze bank account. Problem? |
+| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready |
 | % on revenue | 🚫 | Absolutely not |   |
 | Donations | ✔️ |   |   |
 | Partnership | ✔️ | Can only work with some registrars |   |
