@@ -294,8 +294,6 @@ Personally I can also provide the following:
 
 * Avoid nested `if`, `return` instead
 * Stick to `AND`, `OR` instead of `&&`, `||` logic operators. Many devs don't know anything about precedence
-* `directoryName` `DirectoryName` `directoryname`
-* `fileName` `FileName` `filename` (root vs app)
-* `$thisIsOkay` `$alsoThisId`
+* `StudlyCaps` or `camelCase`?
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
