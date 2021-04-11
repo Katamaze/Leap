@@ -196,6 +196,7 @@ Avoid "exotic" solutions for now.
 | Composer | ✔️ |   | 🟠 |
 | Smarty or Twig | ❔ |   | ⚪ |
 | jQuery | ✔️ |   | ⚪ |
+| Bootstrap 5 | ✔️ |   | ⚪ |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | ⚪ |
