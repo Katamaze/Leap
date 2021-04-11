@@ -245,7 +245,7 @@ Software is free but needs funds.
 | Donations | ✔️ |   |   |
 | Partnership | ✔️ | Can only work with some registrars |   |
 | Involve Data Farm | ❔ | Sell data and tracking |   |
-| Ads | ✔️ | On our website (not in the software) |   |
+| Ads | ✔️ | On our website (not in the software) | Ready |
 | Freemium | 🚫 |   |   |
 | Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |   |
 | SLA | ❔ | Risky |   |
