@@ -262,3 +262,5 @@ Software is free but needs money.
 * `directoryName` `DirectoryName` `directoryname`
 * `fileName` `FileName` `filename` (root vs app)
 * `$thisIsOkay` `$alsoThisId`
+* Same spacing for js and PHP
+* Avoid `;` for last CSS rule
