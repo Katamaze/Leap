@@ -218,34 +218,34 @@ Avoid "exotic" solutions for now.
 
 |  | Role | Effort | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| P1K | Backend | 2 hours | Overloaded |   |
-| P2K | Frontend | 2 hours | RA |   |
-| PXG | Dev team | Lot of hours |  |   |
-| V1W | Backend | Don't know |  |   |
-| V2Z | Frontend | Don't know |  |   |
+| P1K | Backend | 2 hours | Overloaded | Active |
+| P2K | Frontend | 2 hours | RA | Active in a couple of weeks |
+| PXG | Dev team | Lot of hours |   |   |
+| V1W | Backend | Don't know |   |   |
+| V2Z | Frontend | Don't know |   |   |
 | V3M | Dev team | Nope | Surely not |   |
-| V4S | Frontend | Don't know |  |   |
-| C13 | Tech, employees | Unlimited |  |   |
-| C2F | Know-how, Beta-Tester |  |  |   |
-| C3P | Know-how, Beta-Tester |  |  |   |
-| C4R | Know-how, Beta-Tester |  |  |   |
+| V4S | Frontend | Don't know |   |   |
+| C13 | Tech, employees | Unlimited |   | Seed stage |
+| C2F | Know-how, Beta-Tester |   |   | Seed stage |
+| C3P | Know-how, Beta-Tester |   |   | Seed stage |
+| C4R | Know-how, Beta-Tester |   |   | Seed stage |
 
 # Funding
 
-Software is free but needs money.
+Software is free but needs funds.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| P1K | ✔️ |  |   |
-| C13 | ✔️ |  |   |
-| VX |  ❔ |  |   |
-| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) |   |
+| P1K | ✔️ |   | OK |
+| C13 | ✔️ |   | Seed stage |
+| VX |  ❔ |   |   |
+| Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready for launch |
 | % on revenue | 🚫 | Absolutely not |   |
-| Donations | ✔️ |  |   |
+| Donations | ✔️ |   |   |
 | Partnership | ✔️ | Can only work with some registrars |   |
 | Involve Data Farm | ❔ | Sell data and tracking |   |
 | Ads | ✔️ | On our website (not in the software) |   |
-| Freemium | 🚫 |  |   |
+| Freemium | 🚫 |   |   |
 | Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |   |
 | SLA | ❔ | Risky |   |
 
