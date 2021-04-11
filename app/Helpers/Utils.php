@@ -1,6 +1,6 @@
 <?php
 
-namespace Leap\Config;
+namespace Leap\Helpers;
 
 class Utils {
 
