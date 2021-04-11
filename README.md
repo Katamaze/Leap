@@ -231,6 +231,7 @@ Avoid "exotic" solutions for now.
 | C3P | Know-how, Beta-Tester |   | Provider | Active |
 | C4R | Know-how, Beta-Tester |   | Provider | Need to ask |
 | C5S | Know-how, Beta-Tester |   | Provider | Active |
+| C6Q | Know-how, Beta-Tester |   | Provider | Need to ask |
 
 # Funding
 
