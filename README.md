@@ -12,9 +12,9 @@
 |  | Icon | Description |
 | ------------- | ------------- | ------------- |
 | Importance | ⭐<br>⭐⭐<br>⭐⭐⭐ | Low<br>Medium<br>High |
-| Difficulty | 💣 Low<br>💣💣 Medium<br>💣💣💣 High |   |
-| Time | ⏰ Low<br>⏰⏰ Medium<br>⏰⏰⏰ High |   |
-| Status | 🟢 Completed<br>🟠 In progress<br>🔵 Stalled<br>🔴 Dropped |   |
+| Difficulty | 💣<br>💣💣<br>💣💣💣 | Low<br>Medium<br>High |
+| Time | ⏰<br>⏰⏰<br>⏰⏰⏰ | Low<br>Medium<br>High |
+| Status | 🟢<br>🟠<br>🔵<br>🔴 | Completed<br>In progress<br>Stalled<br>Dropped |
 
 # Must-Have Features
 
