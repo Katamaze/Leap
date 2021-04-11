@@ -236,7 +236,7 @@ Software is free but needs funds.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| P1K | ✔️ |   | OK |
+| P1K | ✔️ |   | Ok |
 | C13 | ✔️ |   | Seed stage |
 | VX |  ❔ |   |   |
 | Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready but it's linked to Katamaze bank account 😕 Should I create a new company? |
@@ -248,6 +248,17 @@ Software is free but needs funds.
 | Freemium | 🚫 |   |   |
 | Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |   |
 | SLA | ❔ | Risky |   |
+
+Personally I can also provide the following:
+
+* vBulletin license (if we need a forum)
+* 4x WHMCS licenses to start working on a migration script
+* ionCube Pro & Special Edition GUI (2 seats) but I guess we don't need it 😆
+* [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
+* Servers
+* Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) license needed for SEO
+* 2x approved Google AdSense account
+* Office (4 seats) but I bet we will never use it
 
 # Localisation
 
