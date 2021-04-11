@@ -98,7 +98,7 @@
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  | Template, logo, names, emails |   |
+| Whitelabel support with master (own company) and child (resellers and wannabes) brands | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  | Template, logo, names, emails | ⚪ |
 | Brand-based pricing | ⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
 | Multiple merchants (eg. paypal accounts) | ⭐ | 💣💣💣 | ⏰⏰⏰  |   | ⚪ |
 | Country-based payment gateways | ⭐ | 💣 | ⏰  |   | ⚪ |
@@ -189,14 +189,14 @@ Avoid "exotic" solutions for now.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| PHP OOP | ✔️ | Any version >= 5.6 | ⚪ |
-| [PSR-1](https://www.php-fig.org/psr/psr-1/) | ✔️ | Coding standards | ⚪ |
-| [PSR-4](https://www.php-fig.org/psr/psr-4/) | ✔️ | Autoloader | ⚪ |
-| Composer | ✔️ |   | ⚪ |
+| PHP OOP | ✔️ | Any version >= 5.6 | 🟠 |
+| [PSR-1](https://www.php-fig.org/psr/psr-1/) | ✔️ | Coding standards | 🟠 |
+| [PSR-4](https://www.php-fig.org/psr/psr-4/) | ✔️ | Autoloader | 🟠 |
+| Composer | ✔️ |   | 🟠 |
 | Smarty or Twig | ❔ |   | ⚪ |
 | jQuery | ✔️ |   | ⚪ |
 | ionCube | 🚫 |   | ⚪ |
-| MySQL | ✔️ |   | ⚪ |
+| MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | ⚪ |
 | Laravel | ❔ | What's the point? Raw PDO | ⚪ |
 | Bootstrap | ✔️ |   | ⚪ |
