@@ -188,6 +188,7 @@ Avoid "exotic" solutions for now.
 | jQuery | ✔️ |  |
 | ionCube | 🚫 |  |
 | MySQL | ✔️ |  |
+| MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` |
 | Laravel | ❔ | What's the point? Raw PDO |
 | Bootstrap | ✔️ |  |
 | FontAwesome | ✔️ |  |
