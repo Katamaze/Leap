@@ -181,7 +181,7 @@ Avoid "exotic" solutions for now.
 | ------------- | ------------- | ------------- |
 | PHP OOP | ✔️ | Any version >= 5.6 |
 | PHP PSR | ❔ | PSR-4 Autoloader |
-| Composer | ❔ | Avoidable? Few people know how use it |
+| Composer | ✔️ |  |
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
 | ionCube | 🚫 |  |
