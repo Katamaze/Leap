@@ -257,4 +257,4 @@ Software is free but needs money.
 # Conventions
 
 * Avoid nested `if`, `return` instead
-* Stick to `AND`, `OR` instead of `&&`, `||` logic operator since many devs don't know anything about precedence
+* Stick to `AND`, `OR` instead of `&&`, `||` logic operators. Many devs don't know anything about precedence
