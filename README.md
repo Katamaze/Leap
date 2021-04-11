@@ -180,7 +180,7 @@ Avoid "exotic" solutions for now.
 |  | Status | Notes |
 | ------------- | ------------- | ------------- |
 | PHP OOP | ✔️ | Any version >= 5.6 |
-| PHP PSR | ❔ | PSR-4 Autoloader |
+| PSR-4 | ✔️ | Autoloader |
 | Composer | ✔️ |  |
 | Smarty or Twig | ❔ |  |
 | jQuery | ✔️ |  |
