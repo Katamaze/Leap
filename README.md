@@ -268,10 +268,10 @@ Personally I can also provide the following:
 
 # Localisation
 
-|  | Team | Status |
+|  | Team | Notes |
 | ------------- | ------------- | ------------- |
-| English | P1K, P2K | 🟠 |
-| Italian | P1K, P2K | 🟠 |
+| English | P1K, P2K |   |
+| Italian | P1K, P2K |   |
 
 # Questions
 
