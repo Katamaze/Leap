@@ -244,6 +244,7 @@ Software is free but needs money.
 * Old school notarial deed ❔
 * Reputation ❔
 * We can't ❔
+* Stop selling WHMCS modules ✔️
 
 ### Customer support
 
