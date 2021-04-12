@@ -266,6 +266,7 @@ Also have the following:
 * Approved Amazon SP-API & MWS developer accounts
 * Tens of various developer accounts
 * Lifetime [TCAdmin](https://www.tcadmin.com/pricing/) 1x Pro Master, 3x Pro Remote Server in case we need to integrate game service providers
+* Can contact thousands of providers
 
 # Localisation
 
