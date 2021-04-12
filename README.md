@@ -261,9 +261,9 @@ Also have the following:
 * [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
 * Servers
 * Office (4 seats) not counting C13 buildings (all seats you want):
- * PE small
- * CH huge
- * MI small
+  * PE small
+  * CH huge
+  * MI small
 * Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) for SEO
 * 2x approved Google AdSense account
 * Approved Amazon SP-API & MWS developer accounts
