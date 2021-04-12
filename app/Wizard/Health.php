@@ -1,8 +1,9 @@
 <?php
 
-namespace Leap\Config;
+namespace Leap\Wizard;
 
-class Health {
+class Health
+{
 
     // To do
 }

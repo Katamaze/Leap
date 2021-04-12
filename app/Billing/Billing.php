@@ -2,7 +2,8 @@
 
 namespace Leap\Billing;
 
-class Billing {
+class Billing
+{
 
     // To do
 }

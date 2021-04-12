@@ -2,7 +2,8 @@
 
 namespace Leap\Logging;
 
-class Logging {
+class Logging
+{
 
     // To do
 }

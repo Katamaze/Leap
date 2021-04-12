@@ -2,7 +2,8 @@
 
 namespace Leap\Helpers;
 
-class Utils {
+class Utils
+{
 
     // To do
 }

@@ -2,7 +2,8 @@
 
 namespace Leap\Hooks;
 
-class Hooks {
+class Hooks
+{
 
     // To do
 }

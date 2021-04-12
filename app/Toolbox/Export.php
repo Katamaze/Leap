@@ -2,7 +2,8 @@
 
 namespace Leap\Toolbox;
 
-class Export {
+class Export
+{
 
     // To do
 }

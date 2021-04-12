@@ -2,7 +2,8 @@
 
 namespace Leap\Payments;
 
-class Payments {
+class Payments
+{
 
     // To do
 }

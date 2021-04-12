@@ -2,7 +2,7 @@
 
 namespace Leap\CMS;
 
-class Widgets
+class Blog
 {
 
     // To do

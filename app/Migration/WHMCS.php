@@ -2,7 +2,8 @@
 
 namespace Leap\Migration;
 
-class WHMCS {
+class WHMCS
+{
 
     // To do
 }

@@ -2,7 +2,8 @@
 
 namespace Leap\CMS;
 
-class CMS {
+class News
+{
 
     // To do
 }

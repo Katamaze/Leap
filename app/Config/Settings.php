@@ -2,7 +2,8 @@
 
 namespace Leap\Config;
 
-class Settings {
+class Settings
+{
 
     // To do
 }

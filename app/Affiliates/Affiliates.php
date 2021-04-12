@@ -2,7 +2,8 @@
 
 namespace Leap\Affiliates;
 
-class Affiliates {
+class Affiliates
+{
 
     // To do
 }

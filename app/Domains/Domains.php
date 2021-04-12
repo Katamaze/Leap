@@ -2,7 +2,8 @@
 
 namespace Leap\Domains;
 
-class Domains {
+class Domains
+{
 
     // To do
 }

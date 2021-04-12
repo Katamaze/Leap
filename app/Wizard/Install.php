@@ -1,8 +1,9 @@
 <?php
 
-namespace Leap\Config;
+namespace Leap\Wizard;
 
-class Install {
+class Install
+{
 
     // To do
 }

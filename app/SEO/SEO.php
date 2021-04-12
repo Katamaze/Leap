@@ -2,7 +2,45 @@
 
 namespace Leap\SEO;
 
-class SEO {
+class SEO
+{
+    function pageTitle() {
 
-    // To do
+        
+    }
+
+    function metaDescription() {
+
+        
+    }
+
+    function openGraphProtocol() {
+
+        
+    }
+
+    function structuredData() {
+
+        
+    }
+
+    function canonicalUrl() {
+
+        
+    }
+
+    function indexHeadings() {
+
+        
+    }
+
+    function timeToRead() {
+
+        
+    }
+
+    function author() {
+
+        
+    }
 }

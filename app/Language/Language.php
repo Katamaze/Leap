@@ -2,7 +2,8 @@
 
 namespace Leap\Language;
 
-class Language {
+class Language
+{
 
     // To do
 }

@@ -2,7 +2,8 @@
 
 namespace Leap\Hosting;
 
-class Hosting {
+class Hosting
+{
 
     // To do
 }
