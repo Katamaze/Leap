@@ -4,6 +4,18 @@ namespace Leap\Support;
 
 class Tickets
 {
+    function serviceLevelAgreement() {
 
-    // To do
+        
+    }
+
+    function emergency() {
+
+        
+    }
+
+    function premium() {
+
+        
+    }
 }

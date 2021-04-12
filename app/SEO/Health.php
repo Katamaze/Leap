@@ -53,4 +53,14 @@ class Health
 
         
     }
+
+    function wallOfText() {
+
+        
+    }
+
+    function readabilityLevel() {
+
+        
+    }
 }
