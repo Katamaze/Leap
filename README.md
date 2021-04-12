@@ -260,7 +260,7 @@ Also have the following:
 * ionCube Pro & Special Edition GUI (2 seats) but I guess we don't need it 😆
 * [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
 * Servers
-* Office (4 seats) not counting C13 buildings (all seats you want)
+* Office (4 seats) not counting C13 buildings (all seats you want) [PE (small) - CH (huge) - MI (small)]
 * Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) for SEO
 * 2x approved Google AdSense account
 * Approved Amazon SP-API & MWS developer accounts
