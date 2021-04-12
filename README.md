@@ -204,6 +204,7 @@ Avoid "exotic" solutions for now.
 | Bootstrap | ✔️ |   | 🟠 |
 | FontAwesome | ✔️ |   | 🟠 |
 | Sprite CSS | ✔️ |   | ⚪ |
+| OAuth user authentication | ❔ |   | ⚪ |
 | TCPDF | 🚫 | Literally sucks. Find alternative | ⚪ |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer | ⚪ |
 | [DataTables](https://datatables.net/) | ❔ | Front-end tables | ⚪ |
