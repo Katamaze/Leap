@@ -253,17 +253,17 @@ Software is free but needs funds.
 | Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |   |
 | SLA | ❔ | Risky |   |
 
-Personally I can also provide the following:
+Also have the following:
 
-* vBulletin license (if we need a forum)
+* vBulletin license (we need a forum)
 * 4x WHMCS licenses to start working on a migration script
 * ionCube Pro & Special Edition GUI (2 seats) but I guess we don't need it 😆
 * [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
 * Servers
-* Office (4 seats) but I bet we will never use it
-* Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) license needed for SEO
+* Office (4 seats) not counting C13 buildings (all seats you want)
+* Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) for SEO
 * 2x approved Google AdSense account
-* Approved Amazon SP-API & MWS developer account
+* Approved Amazon SP-API & MWS developer accounts
 * Tens of various developer accounts
 * Lifetime [TCAdmin](https://www.tcadmin.com/pricing/) 1x Pro Master, 3x Pro Remote Server in case we need to integrate game service providers
 
@@ -295,6 +295,6 @@ Personally I can also provide the following:
 
 * Avoid nested `if`, `return` instead
 * Stick to `AND`, `OR` instead of `&&`, `||` logic operators. Many devs don't know anything about precedence
-* Classes `StudlyCaps` methods & variables `camelCase`
+* Classes `StudlyCaps`. Methods & variables `camelCase`
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
