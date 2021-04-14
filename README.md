@@ -205,7 +205,7 @@ Avoid "exotic" solutions for now.
 | FontAwesome | ✔️ |   | 🟠 |
 | Sprite CSS | ✔️ |   | ⚪ |
 | OAuth user authentication | ❔ |   | ⚪ |
-| TCPDF | 🚫 | Literally sucks. Find alternative | ⚪ |
+| TCPDF | 🚫 | Find alternative. Dompdf or mPDF | ⚪ |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer | ⚪ |
 | [DataTables](https://datatables.net/) | ❔ | Front-end tables | ⚪ |
 | [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ | Back-end tables | ⚪ |
