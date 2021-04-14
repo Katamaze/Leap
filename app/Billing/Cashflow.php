@@ -2,8 +2,17 @@
 
 namespace Leap\Billing;
 
-class Billing
+class Cashflow
 {
+    function operations() {
 
-    // To do
+    }
+
+    function investments() {
+
+    }
+
+    function financing() {
+
+    }
 }

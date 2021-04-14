@@ -4,6 +4,21 @@ namespace Leap\Toolbox;
 
 class Export
 {
+    public $data;
 
-    // To do
+    function pdf() {
+
+    }
+
+    function csv() {
+
+    }
+
+    function xls() {
+
+    }
+
+    function zip() {
+
+    }
 }

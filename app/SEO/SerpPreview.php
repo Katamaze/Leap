@@ -1,6 +1,6 @@
 <?php
 
-namespace Leap\CMS;
+namespace Leap\SEO;
 
 class SerpPreview
 {

@@ -2,7 +2,7 @@
 
 namespace Leap\CMS;
 
-class FAQ
+class Faq
 {
 
     // To do
