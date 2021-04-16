@@ -143,7 +143,7 @@
 
 ## Miscellaneous
 
-|  | Priority | Hate-o-Meter | Time | Thoughts | Status |
+|  | Priority | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Migration tool from WHMCS | ⭐⭐⭐ | 💣 | ⏰⏰⏰  |  | ⚪ |
 | Snapshot order details | ⭐⭐⭐ | 💣 | ⏰⏰  |   | ⚪ |
