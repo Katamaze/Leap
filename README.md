@@ -215,7 +215,8 @@ Avoid "exotic" solutions for now.
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |   | ⚪ |
 | Installer | ✔️ | Classic. Zip, upload, enjoy | ⚪ |
 | Automatic Updates | ❔ | So and so | ⚪ |
-| Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant | ⚪ |
+| Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant x.x.x | 🟠 |
+| Publicly advertised cycles | ✔️ | Alpha, Beta, RC | ⚪ |
 
 # Team
 
