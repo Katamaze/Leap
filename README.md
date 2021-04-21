@@ -205,7 +205,7 @@ Avoid "exotic" solutions for now.
 | Bootstrap | ✔️ |   | 🟠 |
 | FontAwesome | ✔️ |   | 🟠 |
 | Sprite CSS | ✔️ |   | ⚪ |
-| OAuth user authentication | ❔ |   | ⚪ |
+| User authentication | ❔ | OAuth, bcrypt (custom) or framework-based (Zend?) | ⚪ |
 | TCPDF | 🚫 | Find alternative. Dompdf or mPDF | ⚪ |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer | ⚪ |
 | [DataTables](https://datatables.net/) | ❔ | Front-end tables | ⚪ |
