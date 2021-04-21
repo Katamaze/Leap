@@ -190,7 +190,7 @@ Avoid "exotic" solutions for now.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| PHP OOP | ✔️ | Any version >= 5.6 | 🟠 |
+| PHP OOP | ✔️ | >=5.6 or >=v7 | 🟠 |
 | [PSR-1](https://www.php-fig.org/psr/psr-1/) | ✔️ | Coding standards | 🟢 |
 | [PSR-4](https://www.php-fig.org/psr/psr-4/) | ✔️ | Autoloader | 🟢 |
 | Composer | ✔️ |   | 🟢 |
@@ -200,6 +200,7 @@ Avoid "exotic" solutions for now.
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | ⚪ |
+| Strict Mode | ✔️ | Boring but unavoidable | 🟠 |
 | Laravel | ❔ | What's the point? Raw PDO | ⚪ |
 | Bootstrap | ✔️ |   | 🟠 |
 | FontAwesome | ✔️ |   | 🟠 |
