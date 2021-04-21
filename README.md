@@ -302,3 +302,11 @@ Also have the following:
 * Classes `StudlyCaps`. Methods & variables `camelCase`
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
+* Data as `array` not `StdClass`
+
+# Internal Notes
+
+* Navigation & actions vs sidebars, navbar, cog
+* No js? Gtfo mode
+* Downlolad application/octect
+* User roles: pages & actions
