@@ -7,6 +7,7 @@
 - [Localisation](#localisation)
 - [Questions](#questions)
 - [Conventions](#conventions)
+- [Internal Notes](#internal-notes)
 
 ### How to read tables
 
@@ -296,6 +297,13 @@ Also have the following:
 * Stack Overflow ❔
 * Forum ✔️
 * Ticket ❔
+
+### Licensing
+
+* MIT 🚫
+* GPL v3 ✔️ copyleft
+* BSD ✔️
+* Custom ❔
 
 # Conventions
 
