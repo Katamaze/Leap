@@ -189,7 +189,7 @@ Avoid "exotic" solutions for now.
 
 # Framework
 
-|  | Status | Notes | Status |
+|  | Approved | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
 | PHP OOP | ✔️ | >=5.6 or >=v7 | 🟠 |
 | [PSR-1](https://www.php-fig.org/psr/psr-1/) | ✔️ | Coding standards | 🟢 |
