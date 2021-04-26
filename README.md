@@ -30,7 +30,7 @@
 | News | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
 | Blog | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
 | Docs | ⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
-| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰  |   | ⚪ |
+| Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰  | Bad idea | 🔵 |
 | FAQ | ⭐ | 💣 | ⏰  |   | ⚪ |
 | Bug Reporting | ⭐ | 💣💣 | ⏰  |   | ⚪ |
 | Comments | ⭐ | 💣💣 | ⏰  | reCAPTCHA | ⚪ |
@@ -117,7 +117,7 @@
 | Basic engine | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   | ⚪ |
 | Scopes implementation | ⭐⭐⭐ | 💣💣💣 | ⏰⏰⏰  | Owner, resellers, end-users | ⚪ |
 | Keyword-based requests | ⭐ | 💣 | ⏰  |   | ⚪ |
-| lazy-API for idiots | ⭐ | 💣 | ⏰  |   | ⚪ |
+| lazy-API for idiots | ⭐ | 💣 | ⏰  | Nope | 🔴 |
 
 ## Action hooks
 
