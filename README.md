@@ -306,6 +306,8 @@ Also have the following:
 * BSD ✔️
 * Custom ❔
 
+Basic idea. Free for personal and commercial use but "All rights reserved". Derived work? The whole work must be free and open source.
+
 # Conventions
 
 * Avoid nested `if`, `return` instead
@@ -320,3 +322,4 @@ Also have the following:
 * Navigation & actions vs sidebars, navbar, cog
 * Downlolad application/octect
 * User roles: pages & actions
+* Depended form fields
