@@ -200,8 +200,9 @@ Avoid "exotic" solutions for now.
 | Bootstrap 5 | ✔️ |   | 🟠 |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
-| MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | ⚪ |
-| Strict Mode | ✔️ | Boring but unavoidable | 🟠 |
+| MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | 🔵 |
+| Strict Mode | ✔️ | Avoidable? | 🟠 |
+| GTFO Mode | ✔️ | No js? R301 & bye bye | ⚪ |
 | Laravel | ❔ | What's the point? Raw PDO | ⚪ |
 | Bootstrap | ✔️ |   | 🟠 |
 | FontAwesome | ✔️ |   | 🟠 |
@@ -312,11 +313,10 @@ Also have the following:
 * Classes `StudlyCaps`. Methods & variables `camelCase`
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
-* Data as `array` not `StdClass`
+* Data as `array` not `StdClass` or you're a dead man
 
 # Internal Notes
 
 * Navigation & actions vs sidebars, navbar, cog
-* No js? Gtfo mode
 * Downlolad application/octect
 * User roles: pages & actions
