@@ -49,7 +49,7 @@ Let me conclude by underlining the fundamental differences between Leap and WHMC
 
 Obviously I will stop selling my WHMCS modules as soon as Leap takes shape. In the meantime if you know me a little, you probably know that last year I have already stopped wasting my time with WHMCS. I no longer add new features to my modules, partecipate to whmcs.community, report bug and try WHMCS BETA. They don't deserve it.
 
-Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockchain, SEO/CMS so I will surely make Leap something more than just a software for hosting providers 😜 In essence I will try to make it a good alternative to things like Magento, Prestashop, WordPress and Joomla.
+Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockchain, SEO/CMS so I will surely make Leap something more than just a software for hosting providers 😜 In essence I will try to make it a good alternative to things like Magento, Prestashop, WordPress and Joomla... and connect it to Coinbase Trading API.
 
 # Must-Have Features
 
