@@ -21,7 +21,7 @@ Plesk and cPanel are the perfect example. They're the best hosting panels the mo
 The same principle applies to WHMCS. In the middle of the COVID-19 crisis they increased prices up to 3154% just because they can and they have nothing to risk. In fact it is simply impossible for large and medium-sized enterprises to migrate on competitors because of the following reasons:
 
 * Like it or not, WHMCS is the best software to run a hosting business. Alternatives exist but they offer inferior value
-* Migrating takes months if not years of planning. WHMCS knows it and gave us less then 3 months to prepare. This is utterly offensive
+* Migrating takes months if not years of planning. WHMCS knows it and gave us less then 3 months to prepare
 * As icing on the cake, they're forcing all owners of "life time" licenses to move to this new pricing structure
 
 This is perfectly in line with their way of doing business with WebPros. Greediness, not giving a flying fuck of fixing bugs and imposing new terrible features that no one asked for. They have no ears to listen to their user-base.
@@ -30,13 +30,22 @@ I know providers that will start paying 15.599$ per year instead of 479$. What o
 
 Switching to another software to avoid yet another price increases, has been proved to be a bad strategy as WebPros can easily acquire every software that is worth their money. Not to mention that changing servers, panels and softwares every couple of years costs time and money.
 
-In my opinion the only true solution is breaking this chain moving to a replacement of WHMCS that is open source and free. A software of this kind can't be acquired by anyone. Moreover unlike WHMCS that keeps releasing features based on their partner needs (the ones with deep pokets that dictate rules), the development of this software will always be focused on providers.
+In my opinion the only true solution is breaking this chain moving to a replacement of WHMCS that is open source and free. A software of this kind can't be acquired by anyone. Moreover unlike WHMCS that keeps releasing features based on their partner needs (the ones with deep pokets that dictate rules), the development of this software will always be focused on end-users: providers.
 
-[I know WHMCS enough](https://katamaze.com/blog/41/whmcs-cons) (including its many bugs, secrets, flaws and missing features). I exactly know what are the needs of providers and have the required skills to complete this work.
+[I know WHMCS enough](https://katamaze.com/blog/41/whmcs-cons) including its many bugs, secrets, flaws and missing features. I exactly know what are the needs of providers and have the required skills to complete this project.
 
 As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process. If you want to partecipate, watch and star this repository. I will provide more details in the following weeks/months.
 
 Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations (free choice and not forced) but I will not enable them till the software reaches the acceptable level. In fact I don't like asking money only based on my good intentions that still need to be proved.
+
+Let me conclude by underlining the fundamental differences between Leap and WHMCS.
+
+|  | Leap | WHMCS |
+| ------------- | ------------- | ------------- |
+| Source code | Open :hatching_chick: | Closed :guardsman: |
+| License | Free :+1: | Commercial :punch: |
+| Focus | Providers :wave: | Partners :necktie: |
+| Revenue model | Sponsors :heart: | Milking :cow2: |
 
 # Must-Have Features
 
