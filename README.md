@@ -32,6 +32,8 @@ As you can see from the following paragraphs, I'm already working on things incl
 
 Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations (free choice and not forced) but I will not enable them till the software reaches the acceptable level. The reason is that I don't like asking money only based on my good intentions that still need to be proved.
 
+# Must-Have Features
+
 ### How to read tables
 
 |  | Icon | Description |
@@ -40,8 +42,6 @@ Keep in mind that every open source and free software still needs a way to fund 
 | Difficulty | 💣<br>💣💣<br>💣💣💣 | Low<br>Medium<br>High |
 | Time | ⏰<br>⏰⏰<br>⏰⏰⏰ | Low<br>Medium<br>High |
 | Status | 🟢<br>🟠<br>🔵<br>🔴<br>⚪ | Completed<br>In progress<br>Stalled<br>Dropped<br>New |
-
-# Must-Have Features
 
 ## CMS
 
