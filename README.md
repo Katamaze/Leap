@@ -1,4 +1,5 @@
 #### Table of Contents
+- [A Little Background About Leap](#a-little-background-about-leap)
 - [Must-Have Features](#must-have-features)
 - [Integrations](#integrations)
 - [Framework](#framework)
@@ -8,6 +9,26 @@
 - [Questions](#questions)
 - [Conventions](#conventions)
 - [Internal Notes](#internal-notes)
+
+# A Little Background About Leap
+
+I've been using WHMCS since 2008. For plenty of time developing modules on this platform has been my main source of income. I used to love WHMCS but my opinion started to change when WebPros, a capital group, acquired in a very short timeframe WHMCS, Plesk, cPanel and some other hosting-related companies aiming to increase prices across the board.
+
+The idea behind this is to milk hosting providers for as much money as possible by taxing their revenue with this new unethical method of charging costs based on the number of active customers. To make the whole thing even more disgusting, WebPros is acquiring all softwares that providers rely on. And they're pretty damn quick at doing this.
+
+Plesk and cPanel are the perfect example. They're the best hosting panels the money can buy and they're both owned by WebPros meaning that they can freely increase prices without risking to lose customers. In fact, a part from Plesk and cPanel, there aren't many options left. Yes, there's DirectAdmin but it is not as complete as its counterparts. Moreover there's no guarantee that WebPros will eventually decide to acquire them too.
+
+The same story principle to WHMCS. In the middle of the COVID-19 crisis they increased prices up to 3154%. I know providers that will start paying 15.599$ per year instead of 479$. What options we have? Maybe you can think of moving to any of WHMCS competitors like Blesta, HostBill, ClientExec or Ubersmith but let's admit it. No one can prevent WebPros from acquiring them in no time. And it doesn't matter what Blesta or HostBill promise you today. I think we all learnt the lesson that money can buy everything in this business.
+
+Switching to another software to avoid yet another price increases, has been proved to be a bad strategy as WebPros is can easily acquire every software that is worth their money. Not to mention that changing servers, panels and softwares every couple of years costs time and moeny.
+
+In my opinion the only true solution is breaking this chain moving to a replacement of WHMCS that is open source and free. A software of this kind can't be acquired by anyone. Moreover, unlike WHMCS that keeps releasing features based on their partner needs (the ones with deep pokets that dictate rules), the development of this software will always be focus on providers.
+
+[I know WHMCS enough](https://katamaze.com/blog/41/whmcs-cons) (including its many bugs, secrets, flaws and missing features). I exactly know what are the needs of providers and I have the required skills to complete this work.
+
+As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process. If you want to partecipate, watch and star this repository. I will provide more details in the following weeks/months.
+
+Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations but I will not enable them till the software reaches the the acceptable level. The reason is that I don't like asking money only based on my good intention that still need to be proved.
 
 ### How to read tables
 
