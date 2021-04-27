@@ -22,7 +22,7 @@ The same principle applies to WHMCS. In the middle of the COVID-19 crisis they i
 
 I think we all learned the lesson that money can buy everything in this business.
 
-Switching to another software to avoid yet another price increases, has been proved to be a bad strategy as WebPros is can easily acquire every software that is worth their money. Not to mention that changing servers, panels and softwares every couple of years costs time and moeny.
+Switching to another software to avoid yet another price increases, has been proved to be a bad strategy as WebPros can easily acquire every software that is worth their money. Not to mention that changing servers, panels and softwares every couple of years costs time and money.
 
 In my opinion the only true solution is breaking this chain moving to a replacement of WHMCS that is open source and free. A software of this kind can't be acquired by anyone. Moreover, unlike WHMCS that keeps releasing features based on their partner needs (the ones with deep pokets that dictate rules), the development of this software will always be focus on providers.
 
