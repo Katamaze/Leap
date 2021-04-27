@@ -30,7 +30,7 @@ In my opinion the only true solution is breaking this chain moving to a replacem
 
 As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process. If you want to partecipate, watch and star this repository. I will provide more details in the following weeks/months.
 
-Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations but I will not enable them till the software reaches the the acceptable level. The reason is that I don't like asking money only based on my good intention that still need to be proved.
+Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations (free choice and not forced) but I will not enable them till the software reaches the acceptable level. The reason is that I don't like asking money only based on my good intentions that still need to be proved.
 
 ### How to read tables
 
