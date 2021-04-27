@@ -20,7 +20,7 @@ Plesk and cPanel are the perfect example. They're the best hosting panels the mo
 
 The same principle applies to WHMCS. In the middle of the COVID-19 crisis they increased prices up to 3154% just because they can. I know providers that will start paying 15.599$ per year instead of 479$. What options we have? Maybe you can think of moving to any of WHMCS competitors like Blesta, HostBill, ClientExec or Ubersmith but let's admit it. No one can prevent WebPros from acquiring them in no time. And it doesn't matter what Blesta or HostBill promise you today.
 
-**I think we all learnt the lesson that money can buy everything in this business**.
+I think we all learned the lesson that money can buy everything in this business.
 
 Switching to another software to avoid yet another price increases, has been proved to be a bad strategy as WebPros is can easily acquire every software that is worth their money. Not to mention that changing servers, panels and softwares every couple of years costs time and moeny.
 
