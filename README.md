@@ -47,7 +47,7 @@ Let me conclude by underlining the fundamental differences between Leap and WHMC
 | Focus | :wave: Providers | :necktie: Partners |
 | Revenue model | :heart: Sponsors | :cow2: Milking |
 
-Obviously I will stop selling my WHMCS modules as soon as Leap if ready for use. In the meantime if you know me a little, you probably know that last year I have already stopped wasting my time with WHMCS. I no longer add new features to my modules, partecipate to whmcs.community, report bug and try WHMCS BETA. They don't deserve it.
+Obviously I will stop selling my WHMCS modules as soon as Leap takes shape. In the meantime if you know me a little, you probably know that last year I have already stopped wasting my time with WHMCS. I no longer add new features to my modules, partecipate to whmcs.community, report bug and try WHMCS BETA. They don't deserve it.
 
 # Must-Have Features
 
