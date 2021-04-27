@@ -12,7 +12,7 @@
 
 # A Little Background About Leap
 
-I've been using WHMCS since 2008. For plenty of time developing modules on this platform has been my main source of income. I used to love WHMCS but my opinion started to change when WebPros, a capital group, acquired in a very short timeframe WHMCS, Plesk, cPanel and some other hosting-related companies aiming to increase prices across the board.
+I'm the founder of [katamaze.com](https://katamaze.com) and I've been using WHMCS since 2008. For plenty of time developing modules on this platform has been my main source of income. I used to love WHMCS but my opinion started to change when WebPros, a capital group, acquired in a very short timeframe WHMCS, Plesk, cPanel and some other hosting-related companies aiming to increase prices across the board.
 
 The idea behind this is to milk hosting providers for as much money as possible by taxing their revenue with this new unethical method of charging costs based on the number of active customers. To make the whole thing even more disgusting, WebPros is acquiring all softwares that providers rely on. And they're pretty damn quick at doing this.
 
