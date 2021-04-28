@@ -24,7 +24,7 @@ The same principle applies to WHMCS. In the middle of the COVID-19 crisis they i
 * Migrating takes months if not years of planning. WHMCS knows it and gave us less then 3 months to prepare
 * As icing on the cake, they're forcing all owners of "life time" licenses to move to this new pricing structure
 
-This is perfectly in line with their way of doing business with WebPros. Greediness, not giving a flying fuck of fixing bugs and imposing new terrible features that no one asked for. They have no ears to listen to their user-base.
+This is perfectly in line with their way of doing business with WebPros. Greediness, not giving a damn about fixing bugs and imposing new terrible features that no one asked for. They have no ears to listen to customers.
 
 I know providers that will start paying 15.599$ per year instead of 479$. What options we have? Maybe you can think of moving to any of WHMCS competitors like Blesta, HostBill, ClientExec or Ubersmith but let's admit it. No one can prevent WebPros from acquiring them in no time. And it doesn't matter what Blesta or HostBill promise you today as we all learned the lesson that money can buy everything in this business.
 
