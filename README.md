@@ -365,3 +365,4 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * Downlolad application/octect
 * User roles: pages & actions
 * Depended form fields
+* Multiple language pickers
