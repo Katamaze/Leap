@@ -361,6 +361,7 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
 * Data as `array` not `StdClass` or you're a dead man
+* Logging must be `::`
 
 # Internal Notes
 
