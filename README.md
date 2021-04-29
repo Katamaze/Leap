@@ -16,13 +16,13 @@ I'm the founder of [katamaze.com](https://katamaze.com) and I've been using WHMC
 
 The idea behind this is to milk hosting providers for as much money as possible by taxing their revenue with this new unethical method of charging costs based on the number of active customers. To make the whole thing even more disgusting, WebPros is acquiring all softwares that providers rely on. And they're pretty damn quick at doing this.
 
-Plesk and cPanel are the perfect example. They're the best hosting panels the money can buy and they're both owned by WebPros meaning that they can freely increase prices without risking to lose customers. In fact, a part from Plesk and cPanel, there aren't many options left. Yes, there's DirectAdmin but it is not as complete as its counterparts moreover there's no guarantee that WebPros will eventually decide to acquire them too.
+Plesk and cPanel are the perfect example. They're the best hosting panels the money can buy and they're both owned by WebPros meaning that they can freely increase prices without risking to lose customers. In fact, a part from Plesk and cPanel, there aren't many options left. Yes, there's DirectAdmin but it is not as complete as its counterparts moreover there's no guarantee that WebPros will eventually decide to acquire DirectAdmin too.
 
 The same principle applies to WHMCS. In the middle of the COVID-19 crisis they increased prices up to 3154% just because they can and they have nothing to risk. In fact it is simply impossible for large and medium-sized enterprises to migrate on competitors because of the following reasons:
 
 * Like it or not, WHMCS is the best software to run a hosting business. Alternatives exist but they offer inferior value
-* Migrating takes months if not years of planning. WHMCS knows it and gave us less then 3 months to prepare
-* As icing on the cake, they're forcing all owners of "life time" licenses to move to this new pricing structure
+* Migrating takes months if not years of planning. WHMCS knows it and gave us less then 3 months to prepare to price increase
+* As icing on the cake, they're forcing all owners of "life time" licenses to move to the new and expensive pricing structure
 
 This is perfectly in line with their way of doing business with WebPros. Greediness, not giving a damn about fixing bugs and imposing new terrible features that no one asked for. They have no ears to listen to customers.
 
@@ -34,7 +34,7 @@ In my opinion the only true solution is breaking this chain moving to a replacem
 
 [I know WHMCS enough](https://katamaze.com/blog/41/whmcs-cons) including its many bugs, secrets, flaws and missing features. I exactly know what are the needs of providers and have the required skills to complete this project.
 
-As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process but not at this stage as it would quickly turn the project into bland wishlist. In this moment I prefer to lay the foundations counting on people that I personally know.
+As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process but not at this stage as it would quickly turn the project into a bland wishlist. In this moment I prefer to lay the foundations of Leap only counting on people that I personally know.
 
 If you want to partecipate, watch and star this repository. I will provide more details in the following weeks/months.
 
@@ -51,7 +51,7 @@ Let me conclude by underlining the fundamental differences between Leap and WHMC
 
 Obviously I will stop selling my WHMCS modules as soon as Leap takes shape. In the meantime if you know me a little, you probably know that last year I have already stopped wasting my time with WHMCS. I no longer add new features to my modules, partecipate to whmcs.community, report bug and try WHMCS BETA. They don't deserve it.
 
-Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockchain, SEO/CMS so I will surely make Leap something more than just a software for hosting providers 😜 In essence I will try to make it a good alternative to things like Magento, Prestashop, WordPress and Joomla... and connect it to Coinbase Trading API.
+Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockchain, SEO/CMS so I will surely make Leap something more than just a software for hosting providers 😜 In essence I will try to make it a good alternative to things like Magento, Prestashop, WordPress, Joomla... and connect it to Coinbase Trading API.
 
 # Must-Have Features
 
