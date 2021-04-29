@@ -370,3 +370,4 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * User roles: pages & actions
 * Depended form fields
 * Multiple language pickers
+* Single-cron setup
