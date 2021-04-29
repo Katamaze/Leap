@@ -279,6 +279,7 @@ Avoid "exotic" solutions for now.
 | C4R | Know-how, Beta-Tester |   | Provider | Need to ask |
 | C5S | Know-how, Beta-Tester |   | Provider | Active |
 | C6Q | Know-how, Beta-Tester |   | Provider | Need to ask |
+| C7V | Know-how, Beta-Tester |   | Provider | Active |
 
 # Funding
 
@@ -289,6 +290,8 @@ Software is free but needs funds.
 | P1K | ✔️ |   | Ready |
 | C13 | ✔️ |   | Seed stage |
 | VX |  ❔ |   |   |
+| C1F | ✔️ |   | Ready |
+| C7V | ✔️ |   | Ready |
 | Github Sponsor | ✔️ | 7$ and 14$ a month (free choice) | Ready |
 | % on revenue | 🚫 | Absolutely not |   |
 | Donations | ✔️ |   |   |
