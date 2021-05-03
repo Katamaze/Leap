@@ -241,7 +241,7 @@ Avoid "exotic" solutions for now.
 | Composer | ✔️ |   | 🟢 |
 | Smarty ~~or Twig~~ | ❔ | ex-WHMCS users already know Smarty. Same for ex-WHMCS designers | 🟠 |
 | jQuery | ✔️ |   | ⚪ |
-| Bootstrap 5 | ✔️ |   | 🟠 |
+| Bootstrap 4 | ✔️ |   | 🟠 |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | 🔵 |
