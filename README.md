@@ -289,7 +289,7 @@ Software is free but needs funds.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| P1K | ✔️ |   | Ready |
+| P1K | ✔️ |   | Funding |
 | C13 | ✔️ |   | Seed stage |
 | VX |  ❔ |   |   |
 | C1F | ✔️ |   | Ready |
