@@ -239,6 +239,7 @@ Avoid "exotic" solutions for now.
 | [PSR-1](https://www.php-fig.org/psr/psr-1/) | ✔️ | Coding standards | 🟢 |
 | [PSR-4](https://www.php-fig.org/psr/psr-4/) | ✔️ | Autoloader | 🟢 |
 | Composer | ✔️ |   | 🟢 |
+| Dependency Injection | ✔️ |   | 🟢 |
 | Smarty ~~or Twig~~ | ❔ | ex-WHMCS users already know Smarty. Same for ex-WHMCS designers | 🟠 |
 | jQuery | ✔️ |   | ⚪ |
 | Bootstrap 4 | ✔️ |   | 🟠 |
