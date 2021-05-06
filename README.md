@@ -235,7 +235,7 @@ Avoid "exotic" solutions for now.
 
 |  | Approved | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| PHP OOP | ✔️ | >=5.6 or >=v7 | 🟠 |
+| PHP OOP | ✔️ | >=7.2 | 🟠 |
 | [PSR-1](https://www.php-fig.org/psr/psr-1/) | ✔️ | Coding standards | 🟢 |
 | [PSR-4](https://www.php-fig.org/psr/psr-4/) | ✔️ | Autoloader | 🟢 |
 | Composer | ✔️ |   | 🟢 |
