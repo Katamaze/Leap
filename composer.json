@@ -10,6 +10,8 @@
 		"blueimp/jquery-file-upload": "^10.31",
 		"twbs/bootstrap": "5.0.0-beta3",
 		"fortawesome/font-awesome": "^5.15",
-		"smarty/smarty": "^3.1"
+		"smarty/smarty": "^3.1",
+		"phpoffice/phpspreadsheet": "^1.17",
+		"php-di/php-di": "^6.3"
     }
 }

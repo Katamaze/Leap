@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'OAuth2' => array($vendorDir . '/bshaffer/oauth2-server-php/src'),
     'Monolog' => array($vendorDir . '/monolog/monolog/src'),
+    'HTMLPurifier' => array($vendorDir . '/ezyang/htmlpurifier/library'),
 );

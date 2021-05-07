@@ -4,6 +4,8 @@ namespace Leap\Config;
 
 class Settings
 {
-
-    // To do
+    private function configurationFile()
+    {
+        require_once 'configuration.php';
+    }
 }
