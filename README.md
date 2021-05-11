@@ -81,6 +81,7 @@ Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockc
 | Downloads | ⭐ | 💣 | ⏰⏰  |   | ⚪ |
 | Widgets | ⭐⭐ | 💣 | ⏰⏰  |   | ⚪ |
 | Page builder | ⭐ | 💣💣 | ⏰⏰⏰  |   | ⚪ |
+| Service status | ⭐ | 💣💣 | ⏰⏰  | Like Coinbase Pro Trading (footer) | ⚪ |
 
 ## SEO
 
@@ -261,6 +262,7 @@ Avoid "exotic" solutions for now.
 | Multi-stream support for browsers | ✔️ | Parallel downloads | ⚪ |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |   | ⚪ |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |   | ⚪ |
+| Modal Generator | ✔️ |   | ⚪ |
 | Installer | ✔️ | Classic. Zip, upload, enjoy | ⚪ |
 | Automatic Updates | ❔ | So and so | ⚪ |
 | Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant x.x.x | 🟠 |
