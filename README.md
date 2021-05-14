@@ -202,6 +202,14 @@ Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockc
 | End-users can sell on Marketplaces | ⭐⭐ | 💣💣💣 | ⏰⏰⏰  |   | ⚪ |
 | Admin roles | ⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   | ⚪ |
 | Logging | ⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   | ⚪ |
+| Lock Screen | ⭐ | 💣💣 | ⏰⏰  | For inactivity and via shortcut keys | ⚪ |
+| To-do List | ⭐ | 💣💣 | ⏰⏰  | With reminders and snooze | ⚪ |
+| Shout function | ⭐ | 💣💣 | ⏰⏰  | Broadcasting any message to everyone matching filters | ⚪ |
+| Google Calendar | ⭐ | 💣💣💣 | ⏰⏰⏰  |  | ⚪ |
+| Feeds | ⭐ | 💣 | ⏰⏰  | For admins, childs and end-users | ⚪ |
+| File Manager | ⭐ | 💣 | ⏰⏰  | Internal use (eg. CSV transmissions) | ⚪ |
+| Chat | ⭐ | 💣💣 | ⏰⏰⏰  |  | ⚪ |
+| Service status | ⭐ | 💣💣 | ⏰⏰⏰  | Like "Partially degraded" feature of Coinbase Pro | ⚪ |
 
 # Integrations
 
@@ -244,7 +252,7 @@ Avoid "exotic" solutions for now.
 | Dependency Injection | ✔️ |   | 🟢 |
 | Smarty ~~or Twig~~ | ❔ | ex-WHMCS users already know Smarty. Same for ex-WHMCS designers | 🟠 |
 | jQuery | ✔️ |   | ⚪ |
-| Bootstrap 4 | ✔️ |   | 🟠 |
+| Bootstrap 5 | ✔️ |   | 🟠 |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | 🔵 |
@@ -262,6 +270,9 @@ Avoid "exotic" solutions for now.
 | Multi-stream support for browsers | ✔️ | Parallel downloads | ⚪ |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |   | ⚪ |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |   | ⚪ |
+| Toolbar | ✔️ | Pre-toolbar and toolbar with Type to Search | ⚪ |
+| Sidebar | ✔️ | With Type to Search | ⚪ |
+| Footer | ✔️ | With service status | ⚪ |
 | Modal Generator | ✔️ |   | ⚪ |
 | Installer | ✔️ | Classic. Zip, upload, enjoy | ⚪ |
 | Automatic Updates | ❔ | So and so | ⚪ |
