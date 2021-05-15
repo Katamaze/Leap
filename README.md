@@ -382,10 +382,12 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 
 # Internal Notes
 
-* Navigation & actions vs sidebars, navbar, cog
 * Downlolad application/octect
 * User roles: pages & actions
 * Depended form fields
 * Multiple language pickers
 * Single-cron setup
 * [This theme](https://coderthemes.com/hyper/saas/dashboard-projects.html) is a good source of ideas
+* We should be using ajax + json + react-like page load that works offline (change URI via js)
+* Sidebar and action menu should be populated by json object/array to avoid nested ifs in Smarty
+
