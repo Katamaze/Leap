@@ -388,3 +388,4 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * Depended form fields
 * Multiple language pickers
 * Single-cron setup
+* [This theme](https://coderthemes.com/hyper/saas/dashboard-projects.html) is a good source of ideas
