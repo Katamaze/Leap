@@ -72,7 +72,7 @@ If you think that I'm exaggerating and putting too many eggs in one basket, unde
 
 The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one not counting a successful blog. All this working alone on this obstructive, buggy and encrypted platform that is WHMCS.
 
-On the other hand, the average update of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. I mean they one day they presented us the CALENDAR picker as if it was something like going to Mars. It's a free jQuery library. Any decent developer can implement it in a couple of hours in any system.
+On the other hand, the average update of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. One day they had the nerve to present us the CALENDAR picker as if it was something like going to Mars. It's a free jQuery library. Any decent developer can implement it in a couple of hours in any system.
 
 They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I must say it. I find incredible that a company of the size of WHMCS can't match the quantity and quality of features that one single developer manages to deliver consistently.
 
