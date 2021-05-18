@@ -36,7 +36,7 @@ In my opinion the only true solution is breaking this chain moving to a replacem
 
 As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process but not at this stage as it would quickly turn the project into a bland wishlist. In this moment I prefer to lay the foundations of Leap only counting on people that I personally know.
 
-If you want to partecipate, watch and star this repository. I will provide more details in the following weeks/months.
+If you want to partecipate, watch and star this repository. I will provide more details in the following months.
 
 Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations (free choice and not forced) but I will not enable them till the software reaches the acceptable level. I don't like asking money only based on my good intentions that still need to be proved.
 
