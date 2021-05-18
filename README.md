@@ -53,6 +53,31 @@ Obviously I will stop selling my WHMCS modules as soon as Leap takes shape. In t
 
 Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockchain, SEO/CMS so I will surely make Leap something more than just a software for hosting providers 😜 In essence I will try to make it a good alternative to things like Magento, Prestashop, WordPress, Joomla... and connect it to Coinbase Trading API.
 
+If you think that I'm exaggerating and putting too many eggs in one basket, understand that over the years I managed to deliver more features in my WHMCS modules working alone than the entire staff of WHMCS combined. Let me give you an idea of what I'm talking about:
+
+* [Turned WHMCS into a CMS](https://katamaze.com/whmcs/mercury/specifications) with blog, news, docs, feature requests, comments, bug reporting
+* [SEO for WHMCS](https://katamaze.com/blog/45/whmcs-seo-increase-traffic) including SEO URLs, sitemap, GeoIP, OG Tags...
+* Track sales with [Facebook Pixel](https://katamaze.com/docs/billing-extension/43/whmcs-facebook-pixel-tracking) and [LinkedIn Insight Tag](https://katamaze.com/docs/billing-extension/44/whmcs-linkedin-insight-tag-tracking)
+* Reduce invoices by 80% and transactions fees by 18% with [monthly invoicing](https://katamaze.com/docs/billing-extension/4/whmcs-monthly-invoice)
+* Provide support based on [Service Level Agreement](https://katamaze.com/docs/mercury/50/service-level-agreement)
+* [Cash flow](https://katamaze.com/docs/billing-extension/51/whmcs-cash-flow) for tracking inflow and outflow of money
+* [Customer Retention and Churn Rate](https://katamaze.com/docs/billing-extension/56/whmcs-customer-retention)
+* [Advanced Invoice Data Snapshot](https://katamaze.com/docs/billing-extension/57/whmcs-editing-invoice-snapshot) that includes currency rates
+* Perfect integration with [VIES](https://katamaze.com/docs/billing-extension/8/whmcs-vies), [Australian GST](https://katamaze.com/docs/billing-extension/46/australian-taxation-system), [Tax Stamp](https://katamaze.com/docs/billing-extension/32/tax-stamp-on-invoices)
+* Issue [Credit notes](https://katamaze.com/docs/billing-extension/33/whmcs-issuing-credit-note)
+* Stop issuing unnecessary invoices thanks to [invoice suppression](https://katamaze.com/docs/billing-extension/54/whmcs-invoice-suppression)
+* [Automatic Batch Invoice Export](https://katamaze.com/docs/billing-extension/47/whmcs-automatic-batch-invoice-pdf-export). PDF files are sent via FTP and/or and email as attachments
+* [Affiliation Network](https://katamaze.com/whmcs/commission-manager/specifications) with multiple [Attribution Models](https://katamaze.com/docs/commission-manager/40/whmcs-affiliates-attribution-model)
+* [SorTable](https://katamaze.com/docs/general/3/whmcs-advanced-filtering), [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface), [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs)
+
+The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one not counting a successful blog. All this working alone this obstructive, buggy and encrypted platform that is WHMCS.
+
+On the other hand, the average update of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. I mean they one day they presented us the CALENDAR picker as if it was something like going to Mars. It's a free jQuery library. Any decent developer can implement it in a couple of hours in any system.
+
+They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I must say it. I find incredible that a company of the size of WHMCS can't match the quantity and quality of features that one single developer manages to deliver consistently.
+
+I sometimes wonder myself what would they do to integrate [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade). I know this article is written in italian but it still gives an idea the complexity of this project. Imagine the amount of code behind it. Let me make a quick comparison. I completed such a huge project in about 3 months working alone. In the same amount of time and with God knows how many employees, WHMCS is still trying to fix GDPR they broke in v8.
+
 # Must-Have Features
 
 ### How to read tables
