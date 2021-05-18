@@ -70,7 +70,7 @@ If you think that I'm exaggerating and putting too many eggs in one basket, unde
 * [Affiliation Network](https://katamaze.com/whmcs/commission-manager/specifications) with multiple [Attribution Models](https://katamaze.com/docs/commission-manager/40/whmcs-affiliates-attribution-model)
 * [SorTable](https://katamaze.com/docs/general/3/whmcs-advanced-filtering), [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface), [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs)
 
-The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one not counting a successful blog. All this working alone this obstructive, buggy and encrypted platform that is WHMCS.
+The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one not counting a successful blog. All this working alone on this obstructive, buggy and encrypted platform that is WHMCS.
 
 On the other hand, the average update of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. I mean they one day they presented us the CALENDAR picker as if it was something like going to Mars. It's a free jQuery library. Any decent developer can implement it in a couple of hours in any system.
 
