@@ -76,7 +76,7 @@ On the other hand, the average update of WHMCS contains (not counting bugs) micr
 
 They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I must say it. I find incredible that a company of the size of WHMCS can't match the quantity and quality of features that one single developer manages to deliver consistently.
 
-I sometimes wonder myself what would they do to integrate [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade). I know this article is written in italian but it still gives an idea the complexity of this project. Imagine the amount of code behind it. Let me make a quick comparison. I completed such a huge project in about 3 months working alone. In the same amount of time and with God knows how many employees, WHMCS is still trying to fix GDPR they broke in v8.
+I sometimes wonder myself what would they do to integrate [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade). I know this article is written in italian but it still gives an idea the complexity of this project. Imagine the amount of code behind it. Let me make a quick comparison. I completed such a huge project in about 3 months working alone. To date, with God knows how many employees, WHMCS is still trying to fix GDPR they broke in v8 (November 2020 - still counting).
 
 # Must-Have Features
 
