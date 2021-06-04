@@ -356,11 +356,11 @@ Also have the following:
 * 4x WHMCS licenses to start working on a migration script
 * ionCube Pro & Special Edition GUI (2 seats) but I guess we don't need it 😆
 * [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
-* Servers
+* All servers we need
 * Office
   * PE 4 seats (P1K)
   * CH all seats you want (C13)
-  * MI don't know yet (C13)
+  * MI all seats you want (P01, P02)
   * PE new headquarter in 2022 (C13)
 * Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) for SEO
 * 2x approved Google AdSense account
