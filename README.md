@@ -318,7 +318,8 @@ Avoid "exotic" solutions for now.
 | V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
 | V4S | Frontend | Don't know |   | Wait for now |
 | C13 | Tech, employees | Unlimited |   | Seed stage |
-| P13 | Partner | Equity | 🤑 | Testing |
+| P01 | Partner |  | 🤑 | Active |
+| P02 | Partner |  | 🤑🤑🤑 | Yay |
 | C2F | Know-how, Beta-Tester |   | Provider | Active |
 | C3P | Know-how, Beta-Tester |   | Provider | Active |
 | C4R | Know-how, Beta-Tester |   | Provider | Wait for now |
@@ -334,6 +335,7 @@ Software is free but needs funds.
 | ------------- | ------------- | ------------- | ------------- |
 | P1K | ✔️ |   | Funding |
 | C13 | ✔️ |   | Funding |
+| P13 | ✔️ | 🤑 | Funding |
 | VX |  ❔ |   |   |
 | C1F | ✔️ |   | Ready |
 | C7V | ✔️ |   | Ready |
