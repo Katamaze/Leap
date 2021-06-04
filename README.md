@@ -333,10 +333,10 @@ Software is free but needs funds.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| P1K | ✔️ | 🤑 | Funding |
-| C13 | ✔️ | 🤑🤑🤑 | Funding |
-| P01 | ✔️ | 🤑🤑 | Funding |
-| P02 | ✔️ | 🤑🤑🤑 | Funding |
+| P1K | ✔️ | 1 | Funding |
+| C13 | ✔️ | 3 | Funding |
+| P01 | ✔️ | 2 | Funding |
+| P02 | ✔️ | 5 | Funding |
 | VX |  ❔ |   |   |
 | C1F | ✔️ |   | Ready |
 | C7V | ✔️ |   | Ready |
