@@ -318,6 +318,7 @@ Avoid "exotic" solutions for now.
 | V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
 | V4S | Frontend | Don't know |   | Wait for now |
 | C13 | Tech, employees | Unlimited |   | Seed stage |
+| P13 |   |   | 🤑🤑🤑🤑🤑 |   |
 | C2F | Know-how, Beta-Tester |   | Provider | Active |
 | C3P | Know-how, Beta-Tester |   | Provider | Active |
 | C4R | Know-how, Beta-Tester |   | Provider | Wait for now |
@@ -357,6 +358,7 @@ Also have the following:
   * PE 4 seats (P1K)
   * CH all seats you want (C13)
   * MI don't know yet (C13)
+  * PE new headquarter in 2022 (C13)
 * Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) for SEO
 * 2x approved Google AdSense account
 * Approved Amazon SP-API & MWS developer accounts
