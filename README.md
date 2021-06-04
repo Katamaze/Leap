@@ -333,9 +333,9 @@ Software is free but needs funds.
 
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| P1K | ✔️ |   | Funding |
-| C13 | ✔️ |   | Funding |
-| P01 | ✔️ | 🤑 | Funding |
+| P1K | ✔️ | 🤑 | Funding |
+| C13 | ✔️ | 🤑🤑🤑 | Funding |
+| P01 | ✔️ | 🤑🤑 | Funding |
 | P02 | ✔️ | 🤑🤑🤑 | Funding |
 | VX |  ❔ |   |   |
 | C1F | ✔️ |   | Ready |
