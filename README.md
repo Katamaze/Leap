@@ -274,10 +274,11 @@ Avoid "exotic" solutions for now.
 | [PSR-4](https://www.php-fig.org/psr/psr-4/) | ✔️ | Autoloader | 🟢 |
 | [PSR-11](https://www.php-fig.org/psr/psr-11/) | ❔ | DI-Container | ⚪ |
 | Composer | ✔️ |   | 🟢 |
-| Dependency Injection | ✔️ |   | 🟢 |
+| Dependency Injection | ✔️ | Need multiple containers | 🟢 |
 | Smarty ~~or Twig~~ | ❔ | ex-WHMCS users already know Smarty. Same for ex-WHMCS designers | 🟠 |
 | jQuery | ✔️ |   | ⚪ |
 | Bootstrap 5 | ✔️ |   | 🟠 |
+| Node.js | ✔️ | Overkill. No need | 🔴 |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | 🔵 |
@@ -290,8 +291,8 @@ Avoid "exotic" solutions for now.
 | User authentication | ❔ | OAuth, bcrypt (custom) or framework-based (Zend?) | ⚪ |
 | TCPDF | 🚫 | Find alternative. Dompdf or mPDF | ⚪ |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer | ⚪ |
-| [DataTables](https://datatables.net/) | ❔ | Front-end tables | ⚪ |
-| [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ | Back-end tables | ⚪ |
+| [DataTables](https://datatables.net/) | ❔ | Too basic and clumsy | 🔴 |
+| [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ | Refactored in line with [Material Design](https://material.io/components/data-tables) by Google | 🟠 |
 | Multi-stream support for browsers | ✔️ | Parallel downloads | ⚪ |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |   | ⚪ |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |   | ⚪ |
@@ -308,19 +309,20 @@ Avoid "exotic" solutions for now.
 
 |  | Role | Effort | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| P1K | Backend | 2 hours | Overloaded | Active |
-| P2K | Frontend | 2 hours | RA | Active in a couple of weeks |
+| P1K | Backend | 6 hours | Overloaded | Active |
+| P2K | Frontend | 6 hours | RA | Active |
+| P3K | Fullstack | 8 hours | RA | Hiring now |
 | PXG | Dev team | Lot of hours |   | Doesn't depend on us |
-| V1W | Backend | Don't know |   | Need to ask |
-| V2Z | Frontend | Don't know |   | Need to ask |
+| V1W | Backend | Don't know |   | Wait for now |
+| V2Z | Frontend | Don't know |   | Wait for now |
 | V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
-| V4S | Frontend | Don't know |   | Need to ask |
+| V4S | Frontend | Don't know |   | Wait for now |
 | C13 | Tech, employees | Unlimited |   | Seed stage |
 | C2F | Know-how, Beta-Tester |   | Provider | Active |
 | C3P | Know-how, Beta-Tester |   | Provider | Active |
-| C4R | Know-how, Beta-Tester |   | Provider | Need to ask |
+| C4R | Know-how, Beta-Tester |   | Provider | Wait for now |
 | C5S | Know-how, Beta-Tester |   | Provider | Active |
-| C6Q | Know-how, Beta-Tester |   | Provider | Need to ask |
+| C6Q | Know-how, Beta-Tester |   | Provider | Wait for now |
 | C7V | Know-how, Beta-Tester |   | Provider | Active |
 
 # Funding
@@ -330,7 +332,7 @@ Software is free but needs funds.
 |  | Status | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- |
 | P1K | ✔️ |   | Funding |
-| C13 | ✔️ |   | Seed stage |
+| C13 | ✔️ |   | Funding |
 | VX |  ❔ |   |   |
 | C1F | ✔️ |   | Ready |
 | C7V | ✔️ |   | Ready |
@@ -366,8 +368,8 @@ Also have the following:
 
 |  | Team | Notes |
 | ------------- | ------------- | ------------- |
-| English | P1K, P2K |   |
-| Italian | P1K, P2K |   |
+| English | P1K, P2K, P3K |   |
+| Italian | P1K, P2K, P3K |   |
 
 # Questions
 
