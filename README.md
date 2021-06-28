@@ -235,6 +235,7 @@ I sometimes wonder myself what would they do to integrate [electronic invoicing]
 | File Manager | ⭐ | 💣 | ⏰⏰  | Internal use (eg. CSV transmissions) | ⚪ |
 | Chat | ⭐ | 💣💣 | ⏰⏰⏰  |  | ⚪ |
 | Service status | ⭐ | 💣💣 | ⏰⏰⏰  | Like "Partially degraded" feature of Coinbase Pro | ⚪ |
+| Organization chart | ⭐ | 💣 | ⏰⏰  |  | ⚪ |
 
 # Integrations
 
