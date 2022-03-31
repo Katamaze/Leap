@@ -1,6 +1,9 @@
 #### Table of Contents
-- [A Little Background About Leap](#a-little-background-about-leap)
-- [Must-Have Features](#must-have-features)
+- [A Little Background About Leap](#a-little-background-about-me)
+- [Current State of WHMCS](#current-state-of-whmcs)
+- [What can we do?](#what-can-we-do)
+- [Leap: an alternative to WHMCS](#leap-an-alternative-to-whmcs)
+- [Tell me more](#tell-me-more)
 - [Integrations](#integrations)
 - [Framework](#framework)
 - [Team](#team)
@@ -181,7 +184,7 @@ The bad news is that this softare doesn't exists yet that's where I come into pl
 
 I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project that I am going to name Leap.
 
-# Leap, an alternative to WHMCS
+# Leap: an alternative to WHMCS
 
 Here is Leap in a nutshell in comparison with WHMCS
 
@@ -217,20 +220,19 @@ On the other hand, the average release of WHMCS contains (not counting bugs) mic
 
 They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I find incredible that a company of the size of WHMCS can't match the features delivered by a single developer.
 
-# Tell me more about Leap
+# Tell me more
 
 At this stage I prefer to lay the foundation of Leap only counting on a small group of people and providers that I personally know. Right now I don't want to involve too many people otherwise Leap will quickly turn into a bland and unachievable wish list and will never be released.
 
 Initial funding is not a problem. I can count on a partnership 🙏, PNRR and some extra cash coming from crypto (ATOM 😜).
 
-When we go live, I will sustain it with Github sponsors and donations. I will not enable them till the software reaches an acceptable level. The reason for that is simple. I don't like asking money only based on my good intentions that still need to be proved.
+When we go live, it will sustain itself with Github sponsors and donations. I will not enable them till the software reaches an acceptable level. The reason for that is simple. I don't like asking money only based on my good intentions that still need to be proved.
 
 If you want to help, watch and star this project.
 
-
 # Notes
 
-The content below is tentative. They are just interal notes. What you see may not reflect what eventually is included in Leap. Manage your expectations accordingly.
+The content below is tentative. They are mostly internal notes. What you see may not reflect what eventually is included in Leap. Manage your expectations accordingly.
 
 ### How to read tables
 
@@ -248,13 +250,13 @@ The content below is tentative. They are just interal notes. What you see may no
 
 |  | Importance | Difficulty | Time | Thoughts | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| News | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
-| Blog | ⭐⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
-| Docs | ⭐⭐ | 💣💣 | ⏰⏰  |   | ⚪ |
+| News | ⭐⭐⭐ | 💣💣 | ⏰⏰  | Replica  | ⚪ |
+| Blog | ⭐⭐⭐ | 💣💣 | ⏰⏰  | Replica | ⚪ |
+| Docs | ⭐⭐ | 💣💣 | ⏰⏰  | Single page API-style | ⚪ |
 | Feature Requests | ⭐ | 💣💣💣 | ⏰⏰⏰  | Bad idea | 🔵 |
 | FAQ | ⭐ | 💣 | ⏰  |   | ⚪ |
 | Bug Reporting | ⭐ | 💣💣 | ⏰  |   | ⚪ |
-| Comments | ⭐ | 💣💣 | ⏰  | reCAPTCHA | ⚪ |
+| Comments | ⭐ | 💣💣 | ⏰  | reCAPTCHA but they can still spam | ⚪ |
 | Downloads | ⭐ | 💣 | ⏰⏰  |   | ⚪ |
 | Widgets | ⭐⭐ | 💣 | ⏰⏰  |   | ⚪ |
 | Page builder | ⭐ | 💣💣 | ⏰⏰⏰  |   | ⚪ |
@@ -385,9 +387,10 @@ The content below is tentative. They are just interal notes. What you see may no
 | Google Calendar | ⭐ | 💣💣💣 | ⏰⏰⏰  |  | ⚪ |
 | Feeds | ⭐ | 💣 | ⏰⏰  | For admins, childs and end-users | ⚪ |
 | File Manager | ⭐ | 💣 | ⏰⏰  | Internal use (eg. CSV transmissions) | ⚪ |
-| Chat | ⭐ | 💣💣 | ⏰⏰⏰  |  | ⚪ |
+| Chat | ⭐ | 💣💣 | ⏰⏰⏰  | Boring and long | ⚪ |
 | Service status | ⭐ | 💣💣 | ⏰⏰⏰  | Like "Partially degraded" feature of Coinbase Pro | ⚪ |
 | Organization chart | ⭐ | 💣 | ⏰⏰  |  | ⚪ |
+| Hover Img | ⭐ | 💣 | ⏰  | Zwift | ⚪ |
 
 # Integrations
 
@@ -428,35 +431,35 @@ Avoid "exotic" solutions for now.
 | [PSR-11](https://www.php-fig.org/psr/psr-11/) | ❔ | DI-Container | ⚪ |
 | Composer | ✔️ |   | 🟢 |
 | Dependency Injection | ✔️ | Need multiple containers | 🟢 |
-| Smarty ~~or Twig~~ | ❔ | ex-WHMCS users already know Smarty. Same for ex-WHMCS designers | 🟠 |
+| Smarty ~~or Twig~~ | ❔ | VUE? Node.js overkill? | 🟠 |
 | jQuery | ✔️ |   | ⚪ |
-| Bootstrap 5 | ✔️ |   | 🟠 |
-| Node.js | ✔️ | Overkill. No need | 🔴 |
+| Bootstrap | ✔️ |   | 🟠 |
 | ionCube | 🚫 |   | ⚪ |
 | MySQL | ✔️ |   | 🟠 |
 | MSSQL | ❔ | `LIMIT` `OFFSET` `TOP` | 🔵 |
-| Strict Mode | ✔️ | Avoidable? | 🟠 |
-| GTFO Mode | ✔️ | No js? R301 & bye bye | ⚪ |
-| Laravel | ❔ | What's the point? Raw PDO | ⚪ |
-| Bootstrap | ✔️ |   | 🟠 |
+| Strict Mode | ✔️ | Avoidable? Yes but come on... | 🟠 |
+| No js? GTFO | ✔️ | R301 | ⚪ |
+| Laravel | ❔ | Raw PDO? v8? | ⚪ |
 | FontAwesome | ✔️ |   | 🟠 |
 | Sprite CSS | ✔️ |   | ⚪ |
-| User authentication | ❔ | OAuth, bcrypt (custom) or framework-based (Zend?) | ⚪ |
+| User authentication | ❔ | OAuth, ~~bcrypt (custom)~~ or framework | ⚪ |
 | TCPDF | 🚫 | Find alternative. Dompdf or mPDF | ⚪ |
 | [Highcharts](https://www.highcharts.com/demo) | ❔ | 449.55 € per developer | ⚪ |
-| [DataTables](https://datatables.net/) | ❔ | Too basic and clumsy | 🔴 |
+| [Chart.js](https://www.chartjs.org/) | ❔ | Easy, free | ⚪ |
+| [DataTables](https://datatables.net/) | ❔ | Must use Yajra  | 🔴 |
 | [SorTables](https://katamaze.com/docs/general/3/whmcs-advanced-filtering) | ✔️ | Refactored in line with [Material Design](https://material.io/components/data-tables) by Google | 🟠 |
 | Multi-stream support for browsers | ✔️ | Parallel downloads | ⚪ |
 | [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs) | ✔️ |   | ⚪ |
 | [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface) | ✔️ |   | ⚪ |
 | Toolbar | ✔️ | Pre-toolbar and toolbar with Type to Search | ⚪ |
 | Sidebar | ✔️ | With Type to Search | ⚪ |
-| Footer | ✔️ | With service status | ⚪ |
+| Footer | ✔️ | With CB service status | ⚪ |
 | Modal Generator | ✔️ |   | ⚪ |
-| Installer | ✔️ | Classic. Zip, upload, enjoy | ⚪ |
+| Installer | ✔️ | Zip, upload, enjoy | ⚪ |
 | Automatic Updates | ❔ | So and so | ⚪ |
-| Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant x.x.x | 🟠 |
+| Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant x.x.x | 🟢 |
 | Publicly advertised cycles | ✔️ | Alpha, Beta, RC | ⚪ |
+| Logs | ⭐ | 💣 | ⏰⏰  | Live like Mano Mano and Amazon | ⚪ |
 
 # Team
 
@@ -464,21 +467,21 @@ Avoid "exotic" solutions for now.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | P1K | Backend | 6 hours | Overloaded | Active |
 | P2K | Frontend | 6 hours | RA | Active |
-| P3K | Fullstack | 8 hours | RA | Hiring now |
+| P3K | Frontend | 8 hours | RA | Active |
 | PXG | Dev team | Lot of hours |   | Doesn't depend on us |
-| V1W | Backend | Don't know |   | Wait for now |
-| V2Z | Frontend | Don't know |   | Wait for now |
+| V1W | Backend | Don't know |   | Nah |
+| V2Z | Frontend | Don't know |   | Nah |
 | V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
-| V4S | Frontend | Don't know |   | Wait for now |
-| C13 | Tech, employees | Unlimited |   | Seed stage |
+| V4S | Frontend | Don't know |   | Nah |
+| C13 | Tech, employees | Unlimited |   | Active |
 | P01 | Partner |  |  | Active |
 | P02 | Partner |  |  | Active |
-| C2F | Know-how, Beta-Tester |   | Provider | Active |
-| C3P | Know-how, Beta-Tester |   | Provider | Active |
-| C4R | Know-how, Beta-Tester |   | Provider | Wait for now |
-| C5S | Know-how, Beta-Tester |   | Provider | Active |
-| C6Q | Know-how, Beta-Tester |   | Provider | Wait for now |
-| C7V | Know-how, Beta-Tester |   | Provider | Active |
+| C2F | Beta |   | Provider | Active |
+| C3P | Beta |   | Provider | Active |
+| C4R | Beta |   | Provider | Dropped |
+| C5S | Beta |   | Provider | Active |
+| C6Q | Beta |   | Provider | Abandoned |
+| C7V | Beta |   | Provider | Active |
 
 # Funding
 
@@ -497,30 +500,30 @@ Software is free but needs funds.
 | % on revenue | 🚫 | Absolutely not |   |
 | Donations | ✔️ |   |   |
 | Partnership | ✔️ | Can only work with some registrars |   |
-| Involve Data Farm | ❔ | Sell data and tracking |   |
+| Data Farm | ❔ | Data mining and tracking |   |
 | Ads | ✔️ | On our website (not in the software) | Ready |
 | Freemium | 🚫 |   |   |
 | Donation/Tip Goal | ❔ | "Goal: Feature X - Still 1.000 $ to go"  |   |
-| SLA | ❔ | Risky |   |
+| SLA | ❔ | I want to sleep at night |   |
 
 Also have the following:
 
-* vBulletin license (we need a forum)
+* vBulletin license if we need a forum
 * 4x WHMCS licenses to start working on a migration script
 * ionCube Pro & Special Edition GUI (2 seats) but I guess we don't need it 😆
 * [FontAwesome Pro Standard](https://fontawesome.com/plans) license (5 seats)
 * All servers we need
 * Office
-  * PE 4 seats (P1K)
-  * CH all seats you want (C13)
-  * MI all seats you want (P01, P02)
-  * PE new headquarter in 2022 (C13)
-* Lifetime [Nielpatel](https://app.neilpatel.com/en/pricing?lang=en) for SEO
-* 2x approved Google AdSense account
+  * Italy PE 4 seats but will be closed before summer 2022 (P1K)
+  * Italy CH old headquarter 4-6 seats but noisy (C13)
+  * Italy CH new headquarter all seats you want (C13)
+  * Italy MI all seats you want (P01, P02)
+  * Spain & Australia but why? Pointless
+* Lifetime Niel for SEO
+* 2x approved Google Ads
 * Approved Amazon SP-API & MWS developer accounts
 * Tens of various developer accounts
 * Lifetime [TCAdmin](https://www.tcadmin.com/pricing/) 1x Pro Master, 3x Pro Remote Server in case we need to integrate game service providers
-* Can contact thousands of providers
 
 # Localisation
 
@@ -528,6 +531,7 @@ Also have the following:
 | ------------- | ------------- | ------------- |
 | English | P1K, P2K, P3K |   |
 | Italian | P1K, P2K, P3K |   |
+| Spanish | C13-ES |   |
 
 # Questions
 
@@ -538,6 +542,7 @@ Also have the following:
 * Reputation ❔
 * We can't ❔
 * Stop selling WHMCS modules ✔️
+* Should we?
 
 ### Customer support
 
@@ -545,6 +550,7 @@ Also have the following:
 * Stack Overflow ❔
 * Forum ✔️
 * Ticket ❔
+* Reddit
 
 ### Licensing
 
@@ -562,7 +568,7 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * Classes `StudlyCaps`. Methods & variables `camelCase`
 * Same spacing for js and PHP
 * Avoid `;` for last CSS rule
-* Data as `array` not `StdClass` or you're a dead man
+* Dataset `array` not `StdClass`
 * Logging must be `::`
 
 # More Notes
