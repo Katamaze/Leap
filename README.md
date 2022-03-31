@@ -1,17 +1,10 @@
 #### Table of Contents
-- [A Little Background About Leap](#a-little-background-about-me)
+- [A Little Background About Me](#a-little-background-about-me)
 - [Current State of WHMCS](#current-state-of-whmcs)
-- [What can we do?](#what-can-we-do)
-- [Leap: an alternative to WHMCS](#leap-an-alternative-to-whmcs)
+- [What can We do?](#what-can-we-do)
+- [Leap: an Alternative to WHMCS](#leap-an-alternative-to-whmcs)
 - [Tell me more](#tell-me-more)
-- [Integrations](#integrations)
-- [Framework](#framework)
-- [Team](#team)
-- [Funding](#funding)
-- [Localisation](#localisation)
-- [Questions](#questions)
-- [Conventions](#conventions)
-- [Internal Notes](#internal-notes)
+- [Notes](#notes)
 
 # A Little Background About Me
 
@@ -170,7 +163,7 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
  </tr>
 </table>
 
-# What can we do?
+# What can We do?
 
 If you made it this far in the article, I definitely got your attention. You may ask what's my solution to this decaying software and its business model that sees clients as cows to milk. I am more than glad to respond.
 
@@ -184,7 +177,7 @@ The bad news is that this softare doesn't exists yet that's where I come into pl
 
 I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project that I am going to name Leap.
 
-# Leap: an alternative to WHMCS
+# Leap: an Alternative to WHMCS
 
 Here is Leap in a nutshell in comparison with WHMCS
 
