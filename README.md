@@ -10,50 +10,189 @@
 - [Conventions](#conventions)
 - [Internal Notes](#internal-notes)
 
-# A Little Background About Leap
+# A Little Background About Me
 
-I'm the founder of [katamaze.com](https://katamaze.com) and I've been using WHMCS since 2008. For plenty of time developing modules on this platform has been my main source of income. I used to love WHMCS but my opinion started to change when WebPros, a capital group, acquired in a very short timeframe WHMCS, Plesk, cPanel and some other hosting-related companies aiming to increase prices across the board.
+I starterd using WHMCS in 2007 to run my hosting company. I quickly realized the importance of automation of this software envisioning how it would increase my productivity, boosting service quality and making my life easier. It was love at the first sight. I spent the next 6 years coding like crazy on scripts that allowed me to run my business on autopilot. Everything was working automagically.
 
-The idea behind this is to milk hosting providers for as much money as possible by taxing their revenue with this new unethical method of charging costs based on the number of active customers. To make the whole thing even more disgusting, WebPros is acquiring all softwares that providers rely on. And they're pretty damn quick at doing this.
+More than once I managed to anticipate trends and technologies directly in my WHMCS. Here are some examples:
 
-Plesk and cPanel are the perfect example. They're the best hosting panels the money can buy and they're both owned by WebPros meaning that they can freely increase prices without risking to lose customers. In fact, a part from Plesk and cPanel, there aren't many options left. Yes, there's DirectAdmin but it is not as complete as its counterparts moreover there's no guarantee that WebPros will eventually decide to acquire DirectAdmin too.
+* Bill clients for the actual usage of server resources on a hourly basis before OnApp and Advanced Billing were invented
+* Install any CMS in one click from client area years before Plesk and cPanel incorporated this feature
+* Web panels to manage Teamspeak, Ventrilo and hundreds of game servers with dynamic batch scripts
 
-The same principle applies to WHMCS. In the middle of the COVID-19 crisis they increased prices up to 3154% just because they can and they have nothing to risk. In fact it is simply impossible for large and medium-sized enterprises to migrate on competitors because of the following reasons:
+Quick forward to 2014, I have drawn the attention of some big names (and also massive ddos attacks) so I decided to sell my company and move to software development. That's when I created [katamaze.com](https://katamaze.com) and released several modules for WHMCS based on my deep knowledge of this system and scripts I used to run my previous business.
 
-* Like it or not, WHMCS is the best software to run a hosting business. Alternatives exist but they offer inferior value
-* Migrating takes months if not years of planning. WHMCS knows it and gave us less then 3 months to prepare to price increase
-* As icing on the cake, they're forcing all owners of "life time" licenses to move to the new and expensive pricing structure
+Over the years I've worked for or have helped to build hundreds if not thousands of providers. I was so confident that I focused on completing the lacks of WHMCS (eg. billing, affiliates, CMS, SEO) and fixing its bugs. In retrospect, I shouldn't have done this and if you are reading this you can probably guess why.
 
-This is perfectly in line with their way of doing business with WebPros. Greediness, not giving a damn about fixing bugs and imposing new terrible features that no one asked for. They have no ears to listen to customers.
+# Current State of WHMCS
 
-I know providers that will start paying 15.599$ per year instead of 479$. What options we have? Maybe you can think of moving to any of WHMCS competitors like Blesta, HostBill, ClientExec or Ubersmith but let's admit it. No one can prevent WebPros from acquiring them in no time. And it doesn't matter what Blesta or HostBill promise you today as we all learned the lesson that money can buy everything in this business.
+I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze.com/blog/54/avoid-whmcs-blesta-hostbill-clientexec-ubersmith-hosting) and alternatives. Here I'll keep it short with the help of some memes.
 
-Switching to another software to avoid yet another price increases, has been proved to be a bad strategy as WebPros can easily acquire every software that is worth their money. Not to mention that changing servers, panels and softwares every couple of years costs time and money.
+<table>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/coding-in-whmcs-feels-like.jpg">
+  </td>
+  <td>
+   Coding in WHMCS is miserable.<br><br>
+   I am not referring to the encoded source code of WHMCS but to its development cycle that is a forced march where releases go from beta to (un)stable at the speed of light.<br><br>
+   Every release is a pile of bugs most of which are never addressed and add up to existing ones.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/6d2b72aa2928dec7d2441219abc2da19/shoveling-bugs-in-whmcs.jpg">
+  </td>
+  <td>
+   That's how you feel while debugging in WHMCS.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/creating-modules-for-whmcs.jpg">
+  </td>
+  <td>
+   Try making something more complex than a template and you condemn yourself to a living nightmare. WHMCS staff is obtuse and put everything in End of Life in no time forcing you to rethink entire chunks of code over and over again.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-listeing-to-customers.jpg"/>
+  </td>
+  <td>
+   «We appreciate discussions»<br>
+   «Your feedback matters»<br>
+   «I appreciate your feedback»<br>
+   «You are welcome to discuss this»<br><br>
+   Lies.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-not-fixing-bugs.jpg"/>
+  </td>
+  <td>
+   WHMCS approach to bug fixing.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/6d2b72aa2928dec7d2441219abc2da19/whmcs-fixing-bug.jpg"/>
+  </td>
+  <td>
+   Speaking of bugs, I don't want to be too harsh towords WHMCS. I give them credit for fixing some bugs that have been reported back in 2010.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-feature-requests.jpg"/>
+  </td>
+  <td>
+   The place where good ideas go to die.<br><br>
+   Many invest considerable amount of time writing detailed requests but WHMCS don't give a damn. As proof of this, they forget to approve incoming requests for months and close the most popular ones without saying a word.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-new-feature.jpg"/>
+  </td>
+  <td>
+   They flood us with barely tested features that make little or no sense for their customer base.<br><br>
+   They take design from Instagram, authentication from Google, mix it with a bit of Facebook and expect us to make some sense out of this Frankenstein's monster.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-release-changelog.jpg"/>
+  </td>
+  <td>
+   Literally every release of WHMCS.<br><br>
+   Bugs probably account for the 10% of this software. Isn't it scary? As a reference I started fixing billing bugs in 2008 with <a href="https://katamaze.com/whmcs/billing-extension/specifications">Billing Extension</a> (one of my modules). 100% of problems I fixed are still part of the latest release of WHMCS.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-the-myth-of-stable-release.jpg"/>
+  </td>
+  <td>
+   Whenever you report a bug you will be met with one of the following replies:<br><br>
+   «It is working as intended»<br>
+   «Submit a feature requests»<br><br>
+   They have the innate ability to turn turning bugs into feature requests.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-ease-of-use.jpg"/>
+  </td>
+  <td>
+   If they were car manufacturers rather than developers then there would be cars with triangular wheels, driver seats facing backward and airbags just below your butt.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/passive-aggressive-communication-by-whmcs.jpg"/>
+  </td>
+  <td>
+   They have no problem at lying at your face and insult your intelligence. For example when they increased prices up to 4000% during the coronavirus pandemic, they had the nerve to say that pricing didn't change by this much. It's maths, not an opinion.<br><br>
+   As much as they claim to love and welcome discussion, they avoid answering to uncomfortable questions with the usual blah blah blah and proceed closing threads like nothing happened.<br><br>
+   Moreover they are also very disrespectful towards third-party developers. They had no problem at making back door deals with some developers in contrast with their own written rules promoting an unhealty competition.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-taxing-customers.jpg"/>
+  </td>
+  <td>
+   Massive license price hike (4000%), death of lifetime licenses, moved from monthly subscription to basically a % of your revenue. Do you also want a butt slice?<br><br>
+   They are leading small and medium sized companies to death. You can either shut down, go away or become a reseller of services of their partners with big pockets.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-the-future-hosting-industry.jpg"/>
+  </td>
+  <td>
+   You can take as granted that in this whole industry every software is intended to cost you more and more. Or even worse they want a percentage of your revenue.
+  </td>
+ </tr>
+ <tr>
+  <td width="300" align="center">
+   <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/whmcs-blesta-hostbill-clientexec-ubersmith.jpg"/>
+  </td>
+  <td>
+   Speaking of alternatives, in this industry promises are meant to be broken.<br><br>
+   They promise you everything you want to hear to attract new customers, but eventually they all turn into the same shit.
+  </td>
+ </tr>
+</table>
 
-In my opinion the only true solution is breaking this chain moving to a replacement of WHMCS that is open source and free. A software of this kind can't be acquired by anyone. Moreover unlike WHMCS that keeps releasing features based on their partners needs (the ones with deep pokets that dictate rules), the development of this software will always be focused on end-users: providers.
+# What can we do?
 
-[I know WHMCS enough](https://katamaze.com/blog/41/whmcs-cons) including its many bugs, secrets, flaws and missing features. I exactly know what are the needs of providers and have the required skills to complete this project.
+If you made it this far in the article, I definitely got your attention. You may ask what's my solution to this decaying software and its business model that sees clients as cows to milk. I am more than glad to respond.
 
-As you can see from the following paragraphs, I'm already working on things including forming a team and getting people involved. We need as many developers, designers and providers as possible to speed up the process but not at this stage as it would quickly turn the project into a bland wishlist. In this moment I prefer to lay the foundations of Leap only counting on people that I personally know.
+WebPros owns WHMCS and among other things also Plesk and cPanel. More than once they proved they can acquire anything that is worth their money. It doesn't matter what the CEO of this or that panel promise you today. We all learned the lesson that money can buy everything in this industry.
 
-If you want to partecipate, watch and star this repository. I will provide more details in the following months.
+Moreover I don't see how the provider that keeps migrating from one panel to another of inferior value on every price hike can support the growth of his/her business. How can you do that by constantly downgrading your technology level? And I am not even mentioning the costs for migrations.
 
-Keep in mind that every open source and free software still needs a way to fund activities. I will be using Github sponsors and donations (free choice and not forced) but I will not enable them till the software reaches the acceptable level. I don't like asking money only based on my good intentions that still need to be proved.
+In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it will base its development on the needs of end-users (providers) and not on the ones of partners with deep pockets.
 
-Let me conclude by underlining the fundamental differences between Leap and WHMCS.
+The bad news is that this softare doesn't exists yet that's where I come into play.
+
+I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project that I am going to name Leap.
+
+# Leap, an alternative to WHMCS
+
+Here is Leap in a nutshell in comparison with WHMCS
 
 |  | Leap | WHMCS |
 | ------------- | ------------- | ------------- |
 | Source code | :hatching_chick: Open | :guardsman: Closed |
 | License | :+1: Free | :punch: Commercial |
-| Focus | :wave: Providers | :necktie: Partners |
+| Focus | :wave: Providers | :necktie: Definitely not providers |
 | Revenue model | :heart: Sponsors | :cow2: Milking |
 
-Obviously I will stop selling my WHMCS modules as soon as Leap takes shape. In the meantime if you know me a little, you probably know that last year I have already stopped wasting my time with WHMCS. I no longer add new features to my modules, partecipate to whmcs.community, report bug and try WHMCS BETA. They don't deserve it.
-
-Apart from WHMCS, I work a lot with Marketplaces (eg. Amazon, eBay etc.), blockchain, SEO/CMS so I will surely make Leap something more than just a software for hosting providers 😜 In essence I will try to make it a good alternative to things like Magento, Prestashop, WordPress, Joomla... and connect it to Coinbase Trading API.
-
-If you think that I'm exaggerating and putting too many eggs in one basket, understand that over the years I managed to deliver more features in my WHMCS modules working alone than the entire staff of WHMCS combined. Let me give you an idea of what I'm talking about:
+If you think that I am flying too high, please understand that over the years I managed to deliver more useful and tested features in my modules working alone than the entire staff of WHMCS combined. Let me give you an idea of what I'm talking about:
 
 * [Turned WHMCS into a CMS](https://katamaze.com/whmcs/mercury/specifications) with blog, news, docs, feature requests, comments, bug reporting
 * [SEO for WHMCS](https://katamaze.com/blog/45/whmcs-seo-increase-traffic) including SEO URLs, sitemap, GeoIP, OG Tags...
@@ -70,15 +209,28 @@ If you think that I'm exaggerating and putting too many eggs in one basket, unde
 * [Affiliation Network](https://katamaze.com/whmcs/commission-manager/specifications) with multiple [Attribution Models](https://katamaze.com/docs/commission-manager/40/whmcs-affiliates-attribution-model)
 * [SorTable](https://katamaze.com/docs/general/3/whmcs-advanced-filtering), [HereLang](https://katamaze.com/docs/general/2/whmcs-translation-interface), [MagicInput](https://katamaze.com/docs/general/1/whmcs-improved-inputs)
 
-The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one not counting a successful blog. All this working alone on this obstructive, buggy and encrypted platform that is WHMCS.
+The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one.
 
-On the other hand, the average update of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. One day they had the nerve to present us the CALENDAR picker as if it was something like going to Mars. It's a free jQuery library. Any decent developer can implement it in a couple of hours in any system.
+Sometimes I wonder what WHMCS would have done in my place when I added [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade) in their software. I know this article is written in italian but it still gives an idea the its complexity. I completed such a huge project in about 3 months meanwhile WHMCS with God knows how many employees is still trying to fix GDPR they broke in v8 (November 2020).
 
-They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I must say it. I find incredible that a company of the size of WHMCS can't match the quantity and quality of features that one single developer manages to deliver consistently.
+On the other hand, the average release of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. For example a couple of years ago the calendar picker was the main new feature in a in a major release of WHMCS. It's a free jQuery library. Any decent developer can implement it in a couple of hours.
 
-I sometimes wonder myself what would they do to integrate [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade). I know this article is written in italian but it still gives an idea the complexity of this project. Imagine the amount of code behind it. Let me make a quick comparison. I completed such a huge project in about 3 months working alone. To date, with God knows how many employees, WHMCS is still trying to fix GDPR they broke in v8 (November 2020).
+They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I find incredible that a company of the size of WHMCS can't match the features delivered by a single developer.
 
-# Must-Have Features
+# Tell me more about Leap
+
+At this stage I prefer to lay the foundation of Leap only counting on a small group of people and providers that I personally know. Right now I don't want to involve too many people otherwise Leap will quickly turn into a bland and unachievable wish list and will never be released.
+
+Initial funding is not a problem. I can count on a partnership 🙏, PNRR and some extra cash coming from crypto (ATOM 😜).
+
+When we go live, I will sustain it with Github sponsors and donations. I will not enable them till the software reaches an acceptable level. The reason for that is simple. I don't like asking money only based on my good intentions that still need to be proved.
+
+If you want to help, watch and star this project.
+
+
+# Notes
+
+The content below is tentative. They are just interal notes. What you see may not reflect what eventually is included in Leap. Manage your expectations accordingly.
 
 ### How to read tables
 
@@ -413,7 +565,7 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * Data as `array` not `StdClass` or you're a dead man
 * Logging must be `::`
 
-# Internal Notes
+# More Notes
 
 * Downlolad application/octect
 * User roles: pages & actions
