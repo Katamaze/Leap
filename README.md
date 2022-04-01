@@ -157,11 +157,11 @@ WebPros owns WHMCS and among other things also Plesk and cPanel. More than once 
 
 Moreover I don't see how the provider that keeps migrating from one panel to another of inferior value on every price hike can support the growth of his/her business. How can you do that by constantly downgrading your technology level? And I am not even mentioning the costs for migrations.
 
-In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it will base its development on the needs of end-users (providers) and not on the ones of partners with deep pockets.
+In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it can keep basing development on the needs of end-users (providers).
 
 The bad news is that this softare doesn't exists yet that's where I come into play.
 
-I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project that I am going to name Leap.
+I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project. The name of the software will be Leap.
 
 # Leap: an Alternative to WHMCS
 
