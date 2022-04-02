@@ -100,7 +100,7 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
    Whenever you report a bug you will be met with one of the following replies:<br><br>
    «It is working as intended»<br>
    «Submit a feature requests»<br><br>
-   They have the innate ability to turn turning bugs into feature requests.
+   They have the innate ability of turning bugs into feature requests.
   </td>
  </tr>
  <tr>
