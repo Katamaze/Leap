@@ -217,11 +217,13 @@ Today my commitment to WHMCS is limited to maintaining my modules and support a 
 
 # Tell me more
 
-At this stage I prefer to lay the foundation of Leap only counting on a small group of people and providers that I personally know. Right now I don't want to involve too many people otherwise Leap will quickly turn into a bland and unachievable wish list and will never be released.
+At this stage I prefer to lay the foundation of Leap only counting on a small group of people and providers that I personally know. I don't want to involve too many people otherwise Leap will quickly turn into a bland and unachievable wish list and will never be released.
 
 Initial funding is not a problem. I can count on a partnership 🙏, PNRR and some extra cash coming from crypto (ATOM 😜).
 
-When we go live, it will sustain itself with Github sponsors and donations. I will not enable them till the software reaches an acceptable level. The reason for that is simple. I don't like asking money only based on my good intentions that still need to be proved.
+When we go live, Leap will sustain itself with Github sponsors and donations. I will not enable them till the software reaches an acceptable level. The reason for that is simple. I don't like asking money only based on my good intentions that still need to be proved.
+
+Don't ask for ETA. Leap will take years to complete. Also do not expect frequent updates on this page.
 
 If you want to help, watch and star this project.
 
