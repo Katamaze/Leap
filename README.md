@@ -118,7 +118,7 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
   <td>
    They have no problem at lying at your face and insult your intelligence. For example when they increased prices up to 4000% during the coronavirus pandemic, they had the nerve to say that pricing didn't change by this much. It's maths, not an opinion.<br><br>
    As much as they claim to love and welcome discussion, they avoid answering to uncomfortable questions with the usual blah blah blah and proceed closing threads like nothing happened.<br><br>
-   They are also disrespectful and ungrateful towards third-party developers that add value to their software. They made back door deals in contrast with their own written rules promoting an unhealthy competition. Some shady developers can do whatever they want while others must stay in oblivion.
+   They are also disrespectful and ungrateful towards third-party developers that add value to their software. WHMCS made back door deals in contrast with their own written rules promoting an unhealthy competition. This way some shady developers can do whatever they want while others that follow rules must stay in oblivion.
   </td>
  </tr>
  <tr>
