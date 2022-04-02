@@ -176,9 +176,9 @@ Here is Leap in a nutshell in comparison with WHMCS.
 
 # A Little Background About Me
 
-I starterd using WHMCS in 2007 to run my hosting company. I quickly realized the importance of automation of this software envisioning how it would increase my productivity, boosting service quality and making my life easier. It was love at the first sight. I spent the next 6 years coding like crazy on scripts that allowed me to run my business on autopilot. Everything was working automagically.
+I starterd using WHMCS in 2007 to run my hosting company. I quickly realized the importance of automation envisioning how it would increase my productivity, boosting service quality and making my life easier. It was love at the first sight.
 
-More than once I managed to anticipate trends and technologies directly in my WHMCS. Here are some examples:
+I spent the next 6 years coding like crazy on scripts that allowed me to run my business on autopilot. Everything was working automagically and more than once I managed to anticipate trends and technologies directly in my WHMCS. Here are some examples:
 
 * Bill clients for the actual usage of server resources on a hourly basis before OnApp and Advanced Billing were invented
 * Install any CMS in one click from client area years before Plesk and cPanel incorporated this feature
@@ -186,9 +186,9 @@ More than once I managed to anticipate trends and technologies directly in my WH
 
 Quick forward to 2014, I have drawn the attention of some big names (and also massive ddos attacks) so I decided to sell my company and move to software development. That's when I created [katamaze.com](https://katamaze.com) and released several modules for WHMCS based on my deep knowledge of this system and scripts I used to run my previous business.
 
-Over the years I've worked for or have helped to build hundreds if not thousands of providers. I focused on completing the lacks of WHMCS (eg. billing, affiliates, CMS, SEO) and fixing its bugs. In retrospect, I shouldn't have done this and you can probably guess why.
+Over the years I've worked for or have helped to build hundreds if not thousands of providers. I focused on completing the lacks of WHMCS (eg. billing, affiliates, CMS, SEO) and fixing its bugs. In retrospect, I wish I had actually worked on my own system instead of wasting my time with the obtusity of WHMCS team.
 
-If you think that it is impossible for me to creare Leap, please understand that over the years I managed to deliver more useful and tested features in my modules working alone than the entire staff of WHMCS combined. Let me give you an idea of what I'm talking about:
+If you think that it is impossible for me to create Leap, please understand that over the years I managed to deliver more useful and tested features in my modules working alone than the entire staff of WHMCS combined. Let me give you an idea of what I'm talking about:
 
 * [Turned WHMCS into a CMS](https://katamaze.com/whmcs/mercury/specifications) with blog, news, docs, feature requests, comments, bug reporting
 * [SEO for WHMCS](https://katamaze.com/blog/45/whmcs-seo-increase-traffic) including SEO URLs, sitemap, GeoIP, OG Tags...
@@ -207,9 +207,9 @@ If you think that it is impossible for me to creare Leap, please understand that
 
 The list goes on but I think you've got the idea. I even maintain documentation in two languages this is [bigger](https://katamaze.com/statistics) than WHMCS one.
 
-Sometimes I wonder what WHMCS would have done in my place when I added [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade) in their software. I know this article is written in italian but it still gives an idea the its complexity. I completed such a huge project in about 3 months meanwhile WHMCS, with God knows how many employees, is still trying to fix GDPR they broke in v8 (November 2020).
+Sometimes I wonder what WHMCS would have done in my place when I added [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade) to their software. I know this article is written in italian but it still gives an idea the its complexity. I completed such a huge project in about 3 months. On the other hand WHMCS with God knows how many employees is still trying to fix GDPR they broke in v8 (November 2020).
 
-On the other hand, the average release of WHMCS contains (not counting bugs) microscopic features that I wouldn't even put in a changelog. For instance few years ago they presented us the calendar picker as the main feature of a major release. We are talking about a free jQuery library that any decent developer can implement it in a couple of hours.
+It is no secret that the average release of WHMCS contains (not counting bugs) microscopic and features that no one asked for that I wouldn't even put in a changelog. For instance few years ago they delivered calendar picker as the main feature of a major release. It's a free jQuery library that any decent developer can implement it in a couple of hours.
 
 They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I find incredible that a company of the size of WHMCS can't match the features delivered by a single developer.
 
