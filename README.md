@@ -568,14 +568,20 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * Dataset `array` not `StdClass`
 * Logging must be `::`
 
-# More Notes
+# P1K
 
 * Downlolad application/octect
-* User roles: pages & actions
-* Depended form fields
-* Multiple language pickers
+* User roles: pages & actions... sigh
+* Multiple language pickers. Magento in-line translation
 * Single-cron setup
+* What if we handle things like multi-tenancy and overrides as I did with shipping/logistics overrides?
+* I can reuse my existing oAuth API
+* Laravel (and/or Node) is cool but our typical customer is going to hate it. They're not user-friendly
+
+# P2K
+
+* Modal generator/handler
 * [This theme](https://coderthemes.com/hyper/saas/dashboard-projects.html) is a good source of ideas
 * We should be using ajax + json + react-like page load that works offline (change URI via js)
+* Depended form fields
 * Sidebar and action menu should be populated by json object/array to avoid nested ifs in Smarty
-
