@@ -17,7 +17,7 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
   </td>
   <td>
    Coding in WHMCS is miserable.<br><br>
-   I am not referring to the encoded source code of WHMCS but to its development cycle that is a forced march where releases go from beta to (un)stable at the speed of light.<br><br>
+   I am not referring to the encoded source code but to WHMCS development cycle that is a forced march where releases go from beta to (un)stable at the speed of light.<br><br>
    Every release is a pile of bugs most of which are never addressed and add up to existing ones.
   </td>
  </tr>
