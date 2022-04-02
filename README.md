@@ -153,7 +153,7 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
 
 If you made it this far in the article, I definitely got your attention. You may ask what's my solution to this decaying software and its business model that sees clients as cows to milk. I am more than glad to respond.
 
-WebPros owns WHMCS and among other things also Plesk and cPanel. More than once they proved they can acquire anything that is worth their money. It doesn't matter what the CEO of this or that panel promise you today. We all learned the lesson that money can buy everything in this industry.
+WebPros owns WHMCS and among other things also Plesk and cPanel. More than once they proved they can acquire anything that is worth their money. It doesn't matter what the CEO of this or that panel promise you today. In this industry money can easily buy everything.
 
 Moreover I don't see how the provider that keeps migrating from one panel to another of inferior value on every price hike can support the growth of his/her business. How can you do that by constantly downgrading your technology level? And I am not even mentioning the costs for migrations.
 
