@@ -178,9 +178,9 @@ Here is Leap in a nutshell in comparison with WHMCS.
 
 I starterd using WHMCS in 2007 to run my hosting company. I quickly realized the importance of automation envisioning how it would increase my productivity, boosting service quality and making my life easier. It was love at the first sight.
 
-I spent the next 6 years coding like crazy on scripts that allowed me to run my business on autopilot. Everything was working automagically and more than once I managed to anticipate trends and technologies directly in my WHMCS. Here are some examples:
+I spent the next 6 years coding like crazy on scripts that allowed me to run my business on autopilot. Everything was working automagically. More than once I managed to anticipate trends and technologies directly in my WHMCS. Here are some examples:
 
-* Bill clients for the actual usage of server resources on a hourly basis before OnApp and Advanced Billing were invented
+* Bill clients for the actual usage of server resources on a hourly basis before things like OnApp were invented
 * Install any CMS in one click from client area years before Plesk and cPanel incorporated this feature
 * Web panels to manage Teamspeak, Ventrilo and hundreds of game servers with dynamic batch scripts
 
