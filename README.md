@@ -210,7 +210,7 @@ The list goes on but I think you've got the idea. This is just a partial list of
 
 Sometimes I wonder what WHMCS would have done in my place when I added [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade) to their software. I know this article is written in italian but it still gives an idea the its complexity. I completed such a huge project in about 3 months. On the other hand WHMCS with God knows how many employees is still trying to fix GDPR they broke in v8 (November 2020).
 
-It is no secret that the average release of WHMCS contains (not counting bugs) microscopic and features that no one asked for that I wouldn't even put in a changelog. For instance few years ago they delivered calendar picker as the main feature of a major release. It's a free jQuery library that any decent developer can implement it in a couple of hours.
+It is no secret that the average release of WHMCS contains (not counting bugs) microscopic features that no one asked for that I wouldn't even put in a changelog. For instance few years ago they delivered calendar picker as the main feature of a major release. It's a free jQuery library that any decent developer can implement it in a couple of hours.
 
 They are slow and their commitment is non-impactful. We have bugs from years that whould take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I find incredible that a company of the size of WHMCS can't match the features delivered by a single developer.
 
