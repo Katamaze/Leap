@@ -34,7 +34,8 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
    <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/3c3e3a81cf0ca6e2aeb59bfb6d4be904/creating-modules-for-whmcs.jpg">
   </td>
   <td>
-   Try making something more complex than a template and you condemn yourself to a living nightmare. WHMCS staff is obtuse and put everything in End of Life in no time forcing you to rethink entire chunks of code over and over again.
+   Try making something more complex than a template and you condemn yourself to a living nightmare. WHMCS staff is obtuse. They have ears, but they don't listen.<br><br>
+   As proof of this, they cease supporting crucial features with short notice and for silly reasons forcing you to rethink entire chunks of code over and over again. That's how you end up working when people normally sleep.
   </td>
  </tr>
  <tr>
