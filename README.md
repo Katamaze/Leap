@@ -212,7 +212,7 @@ Sometimes I wonder what WHMCS would have done in my place when I added [electron
 
 It is no secret that the average release of WHMCS contains (not counting bugs) microscopic features that no one asked for that I wouldn't even put in a changelog. For instance few years ago they delivered calendar picker as the main feature of a major release. It's a free jQuery library that any decent developer can implement it in a couple of hours.
 
-They are slow and their commitment is non-impactful. We have bugs from years that would take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I don't want to sound presumptuous but I find incredible that a company of the size of WHMCS can't match the features delivered by a single developer.
+They are slow and their commitment is non-impactful. We have bugs from years that would take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I find incredible that a company of the size of WHMCS can't match the features delivered by the now-small group of third-party developers and designers.
 
 Today my commitment to WHMCS is limited to maintaining my modules and support a small group of providers. Few years ago I replaced WHMCS with something more rewarding and satisfying. I work on a software that manages things like marketplaces, logistic, warehouses and data mining. Things that are way more complex than registering domains, start/stop servers and invoice customers hence I am pretty confident with Leap.
 
