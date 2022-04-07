@@ -214,7 +214,9 @@ It is no secret that the average release of WHMCS contains (not counting bugs) m
 
 They are slow and their commitment is non-impactful. We have bugs from years that would take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I find incredible that a company of the size of WHMCS can't match the features delivered by the now-small group of third-party developers and designers.
 
-Today my commitment to WHMCS is limited to maintaining my modules and support a small group of providers. Few years ago I replaced WHMCS with something more rewarding and satisfying. I work on a software that manages things like marketplaces, logistic, warehouses and data mining. Things that are way more complex than registering domains, start/stop servers and invoice customers hence I am pretty confident with Leap.
+Today my commitment to WHMCS is limited to maintaining my modules and support a small group of selected providers. I replaced WHMCS with something that is more rewarding and satisfying. My main focus now is working on a software that manages marketplaces, logistic, warehouses, data mining etc. that is actively used by several big companies.
+
+It's a system that is way more complex and sensitive than WHMCS. A problem could result in the loss of significant amounts of money in missing sales. In comparison registering domains, start/stop servers and invoice customers feels like petting a cat. That being said, I am pretty confident with Leap.
 
 # Tell me more
 
