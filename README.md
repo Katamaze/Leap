@@ -63,7 +63,7 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
    <img src="https://katamaze.com/modules/addons/Mercury/uploads/files/Blog/6d2b72aa2928dec7d2441219abc2da19/whmcs-fixing-bug.jpg"/>
   </td>
   <td>
-   Speaking of bugs, I don't want to be too harsh towords WHMCS. I give them credit for fixing some bugs that have been reported back in 2010.
+   Speaking of bugs, I don't want to be too harsh towards WHMCS. I give them credit for fixing some bugs that have been reported back in 2010.
   </td>
  </tr>
  <tr>
