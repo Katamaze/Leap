@@ -172,7 +172,7 @@ Here is Leap in a nutshell in comparison with WHMCS.
 | ------------- | ------------- | ------------- |
 | Source code | :hatching_chick: Open | :guardsman: Closed |
 | License | :+1: Free | :punch: Commercial |
-| Focus | :wave: Providers | :necktie: Definitely not providers |
+| Focus | :blush: Providers | :smiling_imp: Definitely not providers |
 | Revenue model | :heart: Sponsors | :cow2: Milking |
 
 # A Little Background About Me
