@@ -152,15 +152,15 @@ I wrote a lenghty article on why [providers should avoid WHMCS](https://katamaze
 
 # What can We do?
 
-If you made it this far in the article, I definitely got your attention. You may ask what's my solution to this decaying software and its business model that sees clients as cows to milk. I am more than glad to respond.
+If you made it this far in the article, I definitely got your attention. You may ask what's my solution to this decaying software and the widespread adoption of such a business model that sees clients as cows to milk. I am more than glad to respond.
 
-WebPros owns WHMCS and among other things also Plesk and cPanel. More than once they proved they can acquire anything that is worth their money. It doesn't matter what the CEO of this or that panel promise you today. In this industry money can easily buy everything.
+I know that some of you try to overcome price hikes, game-changing ideas (for worse) and nonsensical decisions made by this or that panel by migrating to a new software but let's face it. Being forced to rethink your job due to things you have no control over, doesn't help with the growth of your business.
 
-Moreover I don't see how the provider that keeps migrating from one panel to another of inferior value on every price hike can support the growth of his/her business. How can you do that by constantly downgrading your technology level? And I am not even mentioning the costs for migrations.
+As if it wasn't enough, usually the new software is a copy of inferior value of what you were using. You need to invest lot of time and money before you can use it in production and for what? Leaving aside WHMCS, a capital group could probably buy all alternatives with few million.
 
-In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it can keep basing development on the needs of end-users (providers).
+As a matter of fact, WebPros (Oakley Capital) owns WHMCS and among other things also Plesk and cPanel. More than once they proved they can acquire anything that is worth their money. It doesn't matter what the CEO of your new software promise you today. In this industry money can easily buy everything. And, boy, web panels are cheap!
 
-The bad news is that this softare doesn't exists yet that's where I come into play.
+In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it can keep basing development on the needs of providers. The bad news is that this softare doesn't exists yet that's where I come into play.
 
 I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project. The name of the software will be Leap.
 
