@@ -160,7 +160,9 @@ As if it wasn't enough, usually the new software is a copy of inferior value of 
 
 As a matter of fact, WebPros (Oakley Capital) owns WHMCS and among other things also Plesk and cPanel. More than once they proved they can acquire anything that is worth their money. It doesn't matter what the CEO of your new software promise you today. In this industry money can easily buy everything. And, boy, web panels are cheap!
 
-In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it can keep basing development on the needs of providers. The bad news is that this softare doesn't exists yet that's where I come into play.
+In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it can keep basing development on the needs of providers.
+
+The bad news is that this softare doesn't exists yet that's where I come into play.
 
 I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project. The name of the software will be Leap.
 
