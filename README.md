@@ -598,3 +598,13 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 * We should be using ajax + json + react-like page load that works offline (change URI via js)
 * Depended form fields
 * Sidebar and action menu should be populated by json object/array to avoid nested ifs in Smarty
+
+# Doubts
+
+We could use Laravel & Node.js or Laravel & Vue or even Laravel & Smarty or Laravel & Blade but end-users (providers) will probably hate us. I mean, Laravel is complex and apart from Blade and Smarty, other template/js engines are even more complex.
+
+The average provider already has massive problems using just WHMCS sidebar/navbar classes. How can we expect them to make changes to a Lavarel class considering routes and templates?
+
+IMO this is what we should be doing. A flexible and robust API interface like we did for C13 and then anyone can play with it with its favourite programming language, system and so on.
+
+In C13 we already have tens of developers interacting with us via API. And we don't even know what language they using! It could be PHP, Python, Java, ASP... who cares? We give them the engine. They go wherever they want to go.
