@@ -224,7 +224,9 @@ Today my commitment to WHMCS is limited to maintaining my modules and supporting
 
 I replaced WHMCS with something that is more rewarding and satisfying. Now I work on a software that manages marketplaces, logistic, warehouses, data mining (...) that is actively used by several companies with notable earnings.
 
-It's a system that is way more complex and sensitive than WHMCS. A problem could result in the loss of significant amounts of money in missing sales. In comparison registering domains, start/stop servers and invoice customers feels like petting a cat. That being said, I am pretty confident with Leap.
+It's a system that is way more complex and sensitive than WHMCS. A problem could result in the loss of significant amounts of money in missing sales. In comparison registering domains, start/stop servers and invoice customers feels like petting a cat.
+
+That being said, I am pretty confident with Leap. It's not a matter of "if", but "when". The only thing I need is time.
 
 # Tell me more
 
