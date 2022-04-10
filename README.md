@@ -307,7 +307,7 @@ The content below is tentative. They are mostly internal notes. What you see may
 | DE | ⭐ | 💣 | ⏰  |   | ⚪ |
 | IT | ⭐⭐⭐ | 💣💣💣 | ⏰⏰  |   | ⚪ |
 | General-purpose e-invoicing | ⭐⭐⭐ | 💣 | ⏰ |   | ⚪ |
-| Italian electronic invoicing | ⭐⭐⭐ | 💣 | ⏰⏰⏰  | Aruba. End of the story | ⚪ |
+| Italian electronic invoicing | ⭐⭐⭐ | 💣 | ⏰⏰⏰  | Aruba. End of the story. Update 2022: FattureInCloud. I've done it already for E24 | ⚪ |
 | User-based billing cycles | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   | ⚪ |
 | User-based billing modes | ⭐⭐⭐ | 💣💣 | ⏰⏰⏰  |   | ⚪ |
 | Credit notes | ⭐⭐⭐ | 💣💣 | ⏰  |   | ⚪ |
