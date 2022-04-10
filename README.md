@@ -212,11 +212,17 @@ The list goes on but I think you've got the idea. This is just a partial list of
 
 Sometimes I wonder what WHMCS would have done in my place when I added [electronic invoicing](https://katamaze.it/docs/billing-extension/34/fatturazione-elettronica-whmcs-trasmissione-xml-sdi-ade) to their software. I know this article is written in italian but it still gives an idea the its complexity. I completed such a huge project in about 3 months. On the other hand WHMCS with God knows how many employees is still trying to fix GDPR they broke in v8 (November 2020).
 
-It is no secret that the average release of WHMCS contains (not counting bugs) microscopic features that no one asked for that I wouldn't even put in a changelog. For instance few years ago they delivered calendar picker as the main feature of a major release. It's a free jQuery library that any decent developer can implement it in a couple of hours.
+It is no secret that the average release of WHMCS contains (not counting bugs) microscopic features that no one asked for that I wouldn't even put in a changelog.
 
-They are slow and their commitment is non-impactful. We have bugs from years that would take minutes to fix. Similarly we are waiting for missing features that any skilled developer could complete in a couple of days. I find incredible that a company of the size of WHMCS can't match the features delivered by the now-small group of third-party developers and designers.
+For instance years ago calendar picker was the main feature of a major release of WHMCS. We are talking about a free jQuery library that any developer can implement in a couple of hours. But for WHMCS this was like a revolution. They even wrote an extensive post about such a feature that on any other system would be considered obvious.
 
-Today my commitment to WHMCS is limited to maintaining my modules and support a small group of selected providers. I replaced WHMCS with something that is more rewarding and satisfying. My main focus now is working on a software that manages marketplaces, logistic, warehouses, data mining etc. that is actively used by several big companies.
+Here's the thing. They are slow and their commitment is non-impactful.
+
+We have bugs from years that would take minutes to fix. Similarly we are waiting for missing features that any decent developer could complete in a couple of days (if not hours). I find incredible that a company of the size of WHMCS can't match the features delivered by the now-small group of third-party developers and designers.
+
+Today my commitment to WHMCS is limited to maintaining my modules and supporting a small group of selected providers.
+
+I replaced WHMCS with something that is more rewarding and satisfying. Now I work on a software that manages marketplaces, logistic, warehouses, data mining (...) that is actively used by several companies with notable earnings.
 
 It's a system that is way more complex and sensitive than WHMCS. A problem could result in the loss of significant amounts of money in missing sales. In comparison registering domains, start/stop servers and invoice customers feels like petting a cat. That being said, I am pretty confident with Leap.
 
