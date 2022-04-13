@@ -601,13 +601,13 @@ Basic idea. Free for personal and commercial use but "All rights reserved". Deri
 
 # Doubts
 
-We could use Laravel & Node.js or Laravel & Vue or even Laravel & Smarty or Laravel & Blade but end-users (providers) will probably hate us. I mean, Laravel is complex and apart from Blade and Smarty, other template/js engines are even more complex.
+We could use Laravel & Node.js or Laravel & Vue or even Laravel & Smarty or Laravel & Blade but end-users (providers) will probably hate the whole thing. I mean, Laravel is complex and apart from Blade and Smarty, other template/js engines are even more complex.
 
-The average provider already has massive problems using just WHMCS sidebar/navbar classes. How can we expect them to make changes to a Lavarel class considering routes and templates?
+Look at WHMCS. The average provider already has massive problems interacting with sidebar/navbar classes. How can we expect them to make changes to Lavarel classes considering routes, templates, migrations, facades etc.?
 
 IMO this is what we should be doing. A flexible and robust API interface like we did for C13 and then anyone can play with its favourite programming language, system and so on.
 
-In C13 we already have tens of developers interacting with us via API. We don't even know what language they using! It could be PHP, Python, Java, ASP... who cares? We give them the engine. They go wherever they want to go.
+In C13 we already have tens of developers interacting with us via API. We don't even know what language they use! It could be PHP, Python, Java, ASP... who cares? We give them the engine. They go wherever they want to go.
 
 The only problem with this approach is that we should hope that someone creates the GUI for our engine. Or maybe we should provide at least one working example written in PHP and something simple like Smarty. Or WordPress. Sigh...
 
