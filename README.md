@@ -475,15 +475,15 @@ Avoid "exotic" solutions for now.
 
 |  | Role | Effort | Notes | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| P1K | Backend | 6 hours | Overloaded | Active |
-| P2K | Frontend | 6 hours | RA | Active |
-| P3K | Frontend | 8 hours | RA | Active |
+| P1K | Backend | 6 hours | 9999 RAL - Overloaded | Active |
+| P2K | Frontend | 6 hours | 1 RAL | Active |
+| P3K | Frontend | 8 hours | 0.5 RAL | Active |
 | PXG | Dev team | Lot of hours |   | Doesn't depend on us |
 | V1W | Backend | Don't know |   | Nah |
 | V2Z | Frontend | Don't know |   | Nah |
 | V3M | Dev team | Lot of hours | Surely not willing to work on `app` but `modules` | Ask when there's enough code to show |
 | V4S | Frontend | Don't know |   | Nah |
-| C13 | Tech, employees | Unlimited |   | Active |
+| C13 | Tech, employees | Unlimited | Agreement | Active |
 | P01 | Partner |  |  | Active |
 | P02 | Partner |  |  | Active |
 | C2F | Beta |   | Provider | Active |
