@@ -469,7 +469,7 @@ Avoid "exotic" solutions for now.
 | Automatic Updates | ❔ | So and so | ⚪ |
 | Versioning | ✔️ | PHP [version_compare](https://www.php.net/manual/en/function.version-compare.php) compliant x.x.x | 🟢 |
 | Publicly advertised cycles | ✔️ | Alpha, Beta, RC | ⚪ |
-| Logs | ⭐ | 💣 | ⏰⏰  | Live like Mano Mano and Amazon | ⚪ |
+| Logs | ✔️ | Live like Manomano Toolbox and Amazon Listing Status | ⚪ |
 
 # Team
 
