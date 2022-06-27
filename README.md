@@ -162,7 +162,7 @@ As a matter of fact, WebPros (Oakley Capital) owns WHMCS and among other things 
 
 In my opinion the only true solution is relying on a software that is free & open source. A software of this kind can't be acquired and unlike other panels it can keep basing development on the needs of providers.
 
-The bad news is that this softare doesn't exists yet that's where I come into play.
+The bad news is that this software doesn't exists yet that's where I come into play.
 
 I spent my whole career working for providers and I've been a provider myself. I coded very complex modules for WHMCS and have the required skills to start this project. The name of the software will be Leap.
 
